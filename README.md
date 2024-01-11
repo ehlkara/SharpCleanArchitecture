@@ -1,1 +1,3 @@
 # SharpCleanArchitecture
+
+.Net Core 8 Solid and Clean Architecture project...
