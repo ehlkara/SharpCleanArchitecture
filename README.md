@@ -1,0 +1,1 @@
+# SharpCleanArchitecture
