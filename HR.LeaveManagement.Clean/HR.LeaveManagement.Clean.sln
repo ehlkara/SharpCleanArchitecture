@@ -9,7 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{7E0B85D4-C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{FB533883-171A-4AC4-8ACC-D67F7ACDB43B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.LeaveManagement.Domain", "src\Core\HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj", "{9E8A31B2-08A1-49EC-BE74-0CBC90B19029}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HR.LeaveManagement.Domain", "src\Core\HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj", "{9E8A31B2-08A1-49EC-BE74-0CBC90B19029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.LeaveManagement.Application", "src\Core\HR.LeaveManagement.Application\HR.LeaveManagement.Application.csproj", "{4481B398-520C-4BE6-B856-E2CD6287B8ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9E8A31B2-08A1-49EC-BE74-0CBC90B19029}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E8A31B2-08A1-49EC-BE74-0CBC90B19029}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E8A31B2-08A1-49EC-BE74-0CBC90B19029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4481B398-520C-4BE6-B856-E2CD6287B8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4481B398-520C-4BE6-B856-E2CD6287B8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4481B398-520C-4BE6-B856-E2CD6287B8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4481B398-520C-4BE6-B856-E2CD6287B8ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -28,6 +34,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{FB533883-171A-4AC4-8ACC-D67F7ACDB43B} = {D55A8081-48BA-4EF8-AC30-3BD49B7A85BA}
 		{9E8A31B2-08A1-49EC-BE74-0CBC90B19029} = {FB533883-171A-4AC4-8ACC-D67F7ACDB43B}
+		{4481B398-520C-4BE6-B856-E2CD6287B8ED} = {FB533883-171A-4AC4-8ACC-D67F7ACDB43B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9CFD70E5-5953-4358-BAB0-30A131BE5616}
