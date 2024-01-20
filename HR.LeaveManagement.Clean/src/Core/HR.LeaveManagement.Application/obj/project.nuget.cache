@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ht4IZkacvvl77EndlntPyFoPCX90hYUubVNEKs5bBs9Kq+n+XWeiu8Ue5VwB62o1Tj/UCVw1o3A8qfoPSnFxSw==",
+  "dgSpecHash": "6xgWGeb/5TjclJxrpkeIGqDprqMaWGN6JXV9VxavikfO43faEUUSNo32GoC36Xy1wHHNooPHtYHGf1wm+H/pCA==",
   "success": true,
   "projectFilePath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj",
   "expectedPackageFiles": [
     "/Users/ehlkara/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.0/fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
