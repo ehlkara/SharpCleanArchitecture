@@ -19,6 +19,7 @@ namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.UpdateLeave
         {
             // Validate incoming data
 
+
             // convert to domain entity object
             var leaveTypeToUpdate = _mapper.Map<Domain.LeaveType>(request);
 
