@@ -24,6 +24,7 @@
     <None Remove="Features\LeaveType\Commands\" />
     <None Remove="Features\LeaveType\Queries\" />
     <None Remove="Features\LeaveType\Queries\GetAllLeaveTypes\" />
+    <None Remove="Features\LeaveType\Queries\GetLeaveTypeDetails\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="MappingProfiles\" />
@@ -32,5 +33,6 @@
     <Folder Include="Features\LeaveType\Commands\" />
     <Folder Include="Features\LeaveType\Queries\" />
     <Folder Include="Features\LeaveType\Queries\GetAllLeaveTypes\" />
+    <Folder Include="Features\LeaveType\Queries\GetLeaveTypeDetails\" />
   </ItemGroup>
 </Project>
