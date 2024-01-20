@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dZ+h7MCVoeIr9DOQ/oDw2KGYSdhz/OfHukVfvsVqCQytDEiBpImfsZdAZj+YaVSVtTxK4ROzKpYhD5eVitNsTA==",
+  "dgSpecHash": "YctJ7lUsoqiixyrN50DaaYpx4FblZCtiud/wXkKO7eLzIjoWGYEUjyCUgS0Nyim0DQUMSC/YZQaD2/MPUBTsuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ehlullah.karakurt\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Core\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+  "projectFilePath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

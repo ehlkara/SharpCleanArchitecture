@@ -10,4 +10,27 @@
     <ProjectReference Include="..\HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="MappingProfiles\" />
+    <None Remove="Features\" />
+    <None Remove="Features\LeaveType\" />
+    <None Remove="Features\LeaveType\Commands\" />
+    <None Remove="Features\LeaveType\Queries\" />
+    <None Remove="Features\LeaveType\Queries\GetAllLeaveTypes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="MappingProfiles\" />
+    <Folder Include="Features\" />
+    <Folder Include="Features\LeaveType\" />
+    <Folder Include="Features\LeaveType\Commands\" />
+    <Folder Include="Features\LeaveType\Queries\" />
+    <Folder Include="Features\LeaveType\Queries\GetAllLeaveTypes\" />
+  </ItemGroup>
 </Project>
