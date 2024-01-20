@@ -28,6 +28,7 @@
     <None Remove="Features\LeaveType\Commands\CreateLeaveType\" />
     <None Remove="Features\LeaveType\Commands\UpdateLeaveType\" />
     <None Remove="Features\LeaveType\Commands\DeleteLeaveType\" />
+    <None Remove="Exceptions\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="MappingProfiles\" />
@@ -40,5 +41,6 @@
     <Folder Include="Features\LeaveType\Commands\CreateLeaveType\" />
     <Folder Include="Features\LeaveType\Commands\UpdateLeaveType\" />
     <Folder Include="Features\LeaveType\Commands\DeleteLeaveType\" />
+    <Folder Include="Exceptions\" />
   </ItemGroup>
 </Project>
