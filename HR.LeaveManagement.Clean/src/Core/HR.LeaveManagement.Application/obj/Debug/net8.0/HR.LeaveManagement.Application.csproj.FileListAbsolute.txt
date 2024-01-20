@@ -1,0 +1,16 @@
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/bin/Debug/net8.0/HR.LeaveManagement.Application.deps.json
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/bin/Debug/net8.0/HR.LeaveManagement.Application.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/bin/Debug/net8.0/HR.LeaveManagement.Application.pdb
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/bin/Debug/net8.0/HR.LeaveManagement.Domain.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/bin/Debug/net8.0/HR.LeaveManagement.Domain.pdb
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.AssemblyInfo.cs
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.sourcelink.json
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.csproj.CopyComplete
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/refint/HR.LeaveManagement.Application.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.pdb
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/ref/HR.LeaveManagement.Application.dll
