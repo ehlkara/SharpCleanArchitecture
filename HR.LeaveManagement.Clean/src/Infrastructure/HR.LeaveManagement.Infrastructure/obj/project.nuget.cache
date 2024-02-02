@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "a1ZOJlq4Zh1m69PVCsSj/7XAL+95tY3bell0SYOl93YEuA6pEmmiHkPSdOsxXH3kC+nrrfDN/qaKBbDKsbYx+g==",
+  "dgSpecHash": "KbR4Lqmz/dmxb/lvmrxh89FHdwe1xsPm8sr1cx1/B/Ypnorcs2QVnTw/u8k30QtE3aewiGFHG0RBQ+YST7U29w==",
   "success": true,
   "projectFilePath": "C:\\Users\\ehlullah.karakurt\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,8 @@
     "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
     "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
     "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
