@@ -16,9 +16,11 @@
   <ItemGroup>
     <None Remove="DatabaseContext\" />
     <None Remove="Configurations\" />
+    <None Remove="Repositories\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DatabaseContext\" />
     <Folder Include="Configurations\" />
+    <Folder Include="Repositories\" />
   </ItemGroup>
 </Project>
