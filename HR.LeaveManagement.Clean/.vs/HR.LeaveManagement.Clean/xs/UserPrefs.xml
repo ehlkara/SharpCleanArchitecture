@@ -53,6 +53,7 @@
   <MonoDevelop.Ide.ItemProperties.src.Infrastructure.HR.LeaveManagement.Persistence FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.src.Infrastructure.HR.LeaveManagement.Infrastructure FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
