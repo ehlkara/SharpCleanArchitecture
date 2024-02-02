@@ -13,4 +13,12 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.1" />
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="8.0.0" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="DatabaseContext\" />
+    <None Remove="Configurations\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DatabaseContext\" />
+    <Folder Include="Configurations\" />
+  </ItemGroup>
 </Project>
