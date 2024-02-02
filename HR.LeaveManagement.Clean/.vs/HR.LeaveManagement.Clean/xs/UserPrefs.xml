@@ -1,9 +1,4 @@
 ﻿<Properties>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Commands/DeleteLeaveType/DeleteLeaveTypeCommandHandler.cs">
     <Files>
       <File FileName="src/Core/HR.LeaveManagement.Application/ApplicationServiceRegistration.cs" />
@@ -55,5 +50,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.src.Infrastructure.HR.LeaveManagement.Persistence FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
 </Properties>
