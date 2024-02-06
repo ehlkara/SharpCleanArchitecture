@@ -1,12 +1,16 @@
 ﻿using HR.LeaveManagement.Domain;
 using HR.LeaveManagement.Domain.Common;
 using Microsoft.EntityFrameworkCore;
+using System.Data;
 
 namespace HR.LeaveManagement.Persistence.DatabaseContext;
 
 public class HrDatabaseContext : DbContext
 {
-    public HrDatabaseContext(DbContextOptions<HrDatabaseContext> options) : base(options) { }
+    public HrDatabaseContext(DbContextOptions<HrDatabaseContext> options) : base(options)
+    {
+
+    }
 
     public DbSet<LeaveType> LeaveTypes { get; set; }
     public DbSet<LeaveAllocation> LeaveAllocations { get; set; }
@@ -25,7 +29,7 @@ public class HrDatabaseContext : DbContext
         {
             entry.Entity.DateModified = DateTime.Now;
 
-            if(entry.State == EntityState.Added)
+            if (entry.State == EntityState.Added)
             {
                 entry.Entity.DateCreated = DateTime.Now;
             }
@@ -33,5 +37,5 @@ public class HrDatabaseContext : DbContext
 
         return base.SaveChangesAsync(cancellationToken);
     }
-}
 
+}

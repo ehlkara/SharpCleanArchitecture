@@ -1,15 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "KbR4Lqmz/dmxb/lvmrxh89FHdwe1xsPm8sr1cx1/B/Ypnorcs2QVnTw/u8k30QtE3aewiGFHG0RBQ+YST7U29w==",
+  "dgSpecHash": "k7LGdJpnXQkmusxkaFkgUpg7I+FLynLDUXSnAaFtSqhbA2VGqb0HfDWtK73c3DaSHChQr+E++3qifFfJnteUjw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ehlullah.karakurt\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\automapper\\13.0.0\\automapper.13.0.0.nupkg.sha512",
     "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
-    "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
-    "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
@@ -25,16 +24,5 @@
     "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\sendgrid\\9.29.1\\sendgrid.9.29.1.nupkg.sha512",
     "C:\\Users\\ehlullah.karakurt\\.nuget\\packages\\starkbank-ecdsa\\1.3.3\\starkbank-ecdsa.1.3.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.2.0 was resolved.",
-      "libraryId": "MediatR",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }
