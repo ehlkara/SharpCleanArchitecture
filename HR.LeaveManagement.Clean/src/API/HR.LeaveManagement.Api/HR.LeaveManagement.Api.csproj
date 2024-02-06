@@ -25,4 +25,12 @@
     <ProjectReference Include="..\..\Infrastructure\HR.LeaveManagement.Persistence\HR.LeaveManagement.Persistence.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Middleware\" />
+    <None Remove="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Middleware\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
 </Project>
