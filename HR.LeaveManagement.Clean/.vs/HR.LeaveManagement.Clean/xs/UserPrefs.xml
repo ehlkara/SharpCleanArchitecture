@@ -1,11 +1,14 @@
 ﻿<Properties StartupConfiguration="{4378BED8-33FF-4F2F-B035-27D33586D5B1}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.src.API.HR.LeaveManagement.Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Commands/DeleteLeaveType/DeleteLeaveTypeCommandHandler.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Core/HR.LeaveManagement.Application/Exceptions/BadRequestException.cs">
     <Files>
-      <File FileName="src/Core/HR.LeaveManagement.Application/ApplicationServiceRegistration.cs" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/ApplicationServiceRegistration.cs" Line="1" Column="1" />
       <File FileName="src/Core/HR.LeaveManagement.Application/MappingProfiles/LeaveTypeProfile.cs" />
       <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Queries/GetAllLeaveTypes/LeaveTypeDto.cs" />
       <File FileName="src/Core/HR.LeaveManagement.Domain/LeaveType.cs" />
@@ -17,40 +20,98 @@
       <File FileName="src/Core/HR.LeaveManagement.Application/Contracts/Persistence/ILeaveTypeRepository.cs" />
       <File FileName="src/Core/HR.LeaveManagement.Application/Contracts/Persistence/IGenericRepository.cs" />
       <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Queries/GetLeaveTypeDetails/LeaveTypeDetailsDto.cs" />
-      <File FileName="src/Core/HR.LeaveManagement.Application/Contracts/Persistence/ILeaveAllocationRepository.cs" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Contracts/Persistence/ILeaveAllocationRepository.cs" Line="14" Column="2" />
       <File FileName="src/Core/HR.LeaveManagement.Application/Contracts/Persistence/ILeaveRequestRepository.cs" />
       <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Commands/CreateLeaveType/CreateLeaveTypeCommand.cs" />
       <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Commands/CreateLeaveType/CreateLeaveTypeCommandHandler.cs" />
       <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Commands/UpdateLeaveType/UpdateLeaveTypeCommand.cs" />
-      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Commands/UpdateLeaveType/UpdateLeaveTypeCommandHandler.cs" Line="27" Column="1" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Commands/UpdateLeaveType/UpdateLeaveTypeCommandHandler.cs" Line="29" Column="14" />
       <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Commands/DeleteLeaveType/DeleteLeaveTypeCommand.cs" />
-      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Commands/DeleteLeaveType/DeleteLeaveTypeCommandHandler.cs" Line="1" Column="1" />
-      <File FileName="src/Core/HR.LeaveManagement.Application/Exceptions/NotFoundException.cs" />
-      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Commands/CreateLeaveType/CreateLeaveTypeCommandValidator.cs" Line="18" Column="1" />
-      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Commands/UpdateLeaveType/UpdateLeaveTypeCommandValidator.cs" Line="2" Column="60" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Commands/DeleteLeaveType/DeleteLeaveTypeCommandHandler.cs" Line="28" Column="31" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Exceptions/NotFoundException.cs" Line="1" Column="1" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Commands/CreateLeaveType/CreateLeaveTypeCommandValidator.cs" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveType/Commands/UpdateLeaveType/UpdateLeaveTypeCommandValidator.cs" />
+      <File FileName="src/API/HR.LeaveManagement.Api/Controllers/LeaveTypesController.cs" Line="14" Column="16" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Commands/CreateLeaveAllocation/CreateLeaveAllocationCommand.cs" Line="7" Column="41" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Commands/CreateLeaveAllocation/CreateLeaveAllocationCommandHandler.cs" Line="28" Column="33" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Commands/CreateLeaveAllocation/CreateLeaveAllocationCommandValidator.cs" Line="5" Column="1" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Commands/DeleteLeaveAllocation/DeleteLeaveAllocationCommand.cs" Line="6" Column="2" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Commands/DeleteLeaveAllocation/DeleteLeaveAllocationCommandHandler.cs" Line="3" Column="49" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Commands/UpdateLeaveAllocation/UpdateLeaveAllocationCommand.cs" Line="13" Column="1" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Commands/UpdateLeaveAllocation/UpdateLeaveAllocationCommandHandler.cs" Line="10" Column="38" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Commands/UpdateLeaveAllocation/UpdateLeaveAllocationCommandValidator.cs" Line="17" Column="1" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Queries/GetAllocationDetails/GetLeaveAllocationDetailQuery.cs" Line="10" Column="1" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Queries/GetAllocationDetails/GetLeaveAllocationDetailRequestHandler.cs" Line="29" Column="1" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Queries/GetAllocationDetails/LeaveAllocationDetailsDto.cs" Line="8" Column="42" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Queries/GetLeaveAllocations/LeaveAllocationDto.cs" Line="8" Column="42" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Queries/GetLeaveAllocations/GetLeaveAllocationListQuery.cs" Line="7" Column="2" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Queries/GetLeaveAllocations/GetLeaveAllocationListHandler.cs" Line="17" Column="6" />
+      <File FileName="src/API/HR.LeaveManagement.Api/Controllers/LeaveAllocationsController.cs" Line="13" Column="51" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/CancelLeaveRequest/CancelLeaveRequestCommand.cs" Line="5" Column="56" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/CancelLeaveRequest/CancelLeaveRequestCommandHandler.cs" Line="33" Column="37" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/ChangeLeaveRequest/ChangeLeaveRequestApprovalCommand.cs" Line="6" Column="2" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/ChangeLeaveRequest/ChangeLeaveRequestApprovalCommandHandler.cs" Line="52" Column="2" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/ChangeLeaveRequest/ChangeLeaveRequestApprovalCommandValidator.cs" Line="11" Column="60" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/CreateLeaveRequest/CreateLeaveRequestCommand.cs" Line="9" Column="2" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/CreateLeaveRequest/CreateLeaveRequestCommandHandler.cs" Line="2" Column="54" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/CreateLeaveRequest/CreateLeaveRequestCommandValidator.cs" Line="11" Column="88" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Shared/BaseLeaveRequest.cs" Line="9" Column="2" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Shared/BaseLeaveRequestValidator.cs" Line="31" Column="2" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/DeleteLeaveRequest/DeleteLeaveRequestCommand.cs" Line="5" Column="50" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/DeleteLeaveRequest/DeleteLeaveRequestCommandHandler.cs" Line="6" Column="1" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/UpdateLeaveRequest/UpdateLeaveRequestCommand.cs" Line="12" Column="2" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/UpdateLeaveRequest/UpdateLeaveRequestCommandHandler.cs" Line="39" Column="65" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/UpdateLeaveRequest/UpdateLeaveRequestCommandValidator.cs" Line="1" Column="24" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Queries/GetLeaveRequestDetail/GetLeaveRequestDetailQuery.cs" Line="9" Column="1" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Queries/GetLeaveRequestDetail/LeaveRequestDetailsDto.cs" Line="9" Column="53" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Queries/GetLeaveRequestDetail/GetLeaveRequestDetailQueryHandler.cs" Line="11" Column="38" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Queries/GetLeaveRequestList/LeaveRequestListDto.cs" Line="8" Column="48" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Queries/GetLeaveRequestList/GetLeaveRequestListQuery.cs" Line="8" Column="2" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Queries/GetLeaveRequestList/GetLeaveRequestListQueryHandler.cs" Line="9" Column="70" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/MappingProfiles/LeaveAllocationProfile.cs" Line="8" Column="58" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/MappingProfiles/LeaveRequestProfile.cs" Line="8" Column="58" />
+      <File FileName="src/API/HR.LeaveManagement.Api/Controllers/LeaveRequestsController.cs" Line="100" Column="6" />
+      <File FileName="src/API/HR.LeaveManagement.Api/appsettings.json" Line="1" Column="1" />
+      <File FileName="src/API/HR.LeaveManagement.Api/HR.LeaveManagement.Api.http" Line="5" Column="1" />
+      <File FileName="src/API/HR.LeaveManagement.Api/Program.cs" Line="29" Column="42" />
+      <File FileName="src/API/HR.LeaveManagement.Api/Middleware/ExceptionMiddleware.cs" Line="35" Column="31" />
+      <File FileName="src/API/HR.LeaveManagement.Api/Models/CustomValidationProblemDetails.cs" Line="10" Column="1" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Exceptions/BadRequestException.cs" Line="5" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HR.LeaveManagement.Clean">
-            <Node name="src">
-              <Node name="Core">
-                <Node name="HR.LeaveManagement.Application">
-                  <Node name="Features">
-                    <Node name="LeaveType">
-                      <Node name="Commands">
-                        <Node name="CreateLeaveType" expanded="True" />
-                        <Node name="DeleteLeaveType" expanded="True">
-                          <Node name="DeleteLeaveTypeCommandHandler.cs" selected="True" />
-                        </Node>
+          <Node name="HR.LeaveManagement.Clean" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="API">
+                <Node name="HR.LeaveManagement.Api" expanded="True">
+                  <Node name="Middleware" expanded="True" />
+                  <Node name="Models" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Core" expanded="True">
+                <Node name="HR.LeaveManagement.Application" expanded="True">
+                  <Node name="Exceptions" expanded="True">
+                    <Node name="BadRequestException.cs" selected="True" />
+                  </Node>
+                  <Node name="Features" expanded="True">
+                    <Node name="LeaveAllocation" expanded="True">
+                      <Node name="Commands" expanded="True">
+                        <Node name="CreateLeaveAllocation" expanded="True" />
                       </Node>
                     </Node>
                   </Node>
                 </Node>
               </Node>
+              <Node name="Infrastructure" expanded="True">
+                <Node name="HR.LeaveManagement.Persistence" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
