@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{4378BED8-33FF-4F2F-B035-27D33586D5B1}|https">
+﻿<Properties StartupConfiguration="{C7BD510E-8080-4426-A7F4-163EBAE73490}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.test.HR.LeaveManagement.Application.UnitTests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.test.HR.LeaveManagement.Application.UnitTests PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="src/Core/HR.LeaveManagement.Application/Exceptions/BadRequestException.cs">
     <Files>
       <File FileName="src/Core/HR.LeaveManagement.Application/ApplicationServiceRegistration.cs" Line="1" Column="1" />

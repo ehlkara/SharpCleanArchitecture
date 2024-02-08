@@ -33,6 +33,8 @@
     <None Remove="Features\LeaveAllocations\" />
     <None Remove="Features\LeaveTypes\" />
     <None Remove="Features\LeaveRequests\" />
+    <None Remove="Features\LeaveTypes\Commands\" />
+    <None Remove="Features\LeaveTypes\Queries\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Mocks\" />
@@ -40,5 +42,7 @@
     <Folder Include="Features\LeaveAllocations\" />
     <Folder Include="Features\LeaveTypes\" />
     <Folder Include="Features\LeaveRequests\" />
+    <Folder Include="Features\LeaveTypes\Commands\" />
+    <Folder Include="Features\LeaveTypes\Queries\" />
   </ItemGroup>
 </Project>
