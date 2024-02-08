@@ -1,11 +1,8 @@
 ﻿<Properties StartupConfiguration="{4378BED8-33FF-4F2F-B035-27D33586D5B1}|https">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.src.API.HR.LeaveManagement.Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.test.HR.LeaveManagement.Application.UnitTests FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="src/Core/HR.LeaveManagement.Application/Exceptions/BadRequestException.cs">
     <Files>
       <File FileName="src/Core/HR.LeaveManagement.Application/ApplicationServiceRegistration.cs" Line="1" Column="1" />
@@ -115,4 +112,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.src.API.HR.LeaveManagement.Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>
