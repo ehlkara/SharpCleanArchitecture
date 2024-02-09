@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
 using HR.LeaveManagement.Api.Middleware;
-=======
-using HR.LeaveManagement.Api.Middleware;
->>>>>>> Stashed changes
 using HR.LeaveManagement.Application;
 using HR.LeaveManagement.Infrastructure;
 using HR.LeaveManagement.Persistence;
