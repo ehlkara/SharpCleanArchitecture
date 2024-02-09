@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 using HR.LeaveManagement.Application.Features.LeaveAllocation.Commands.CreateLeaveAllocation;
 using HR.LeaveManagement.Application.Features.LeaveAllocation.Commands.DeleteLeaveAllocation;
 using HR.LeaveManagement.Application.Features.LeaveAllocation.Commands.UpdateLeaveAllocation;
@@ -11,23 +12,50 @@ namespace HR.LeaveManagement.Api.Controllers;
 [Route("api/[controller]")]
 [ApiController]
 public class LeaveAllocationsController : ControllerBase
+=======
+using HR.LeaveManagement.Application.Features.LeaveAllocation.Commands.CreateLeaveAllocation;
+using HR.LeaveManagement.Application.Features.LeaveAllocation.Commands.DeleteLeaveAllocation;
+using HR.LeaveManagement.Application.Features.LeaveAllocation.Commands.UpdateLeaveAllocation;
+using HR.LeaveManagement.Application.Features.LeaveAllocation.Queries.GetAllocationDetails;
+using HR.LeaveManagement.Application.Features.LeaveAllocation.Queries.GetLeaveAllocations;
+using MediatR;
+using Microsoft.AspNetCore.Mvc;
+
+namespace HR.LeaveManagement.Api.Controllers;
+
+[Route("api/[controller]")]
+[ApiController]
+public class LeaveAllocationsController : ControllerBase
+>>>>>>> Stashed changes
 {
     private readonly IMediator _mediator;
 
     public LeaveAllocationsController(IMediator mediator)
     {
         _mediator = mediator;
+<<<<<<< Updated upstream
     }
 
     // GET: api/<LeaveAllocationsController>
+=======
+    }
+
+    // GET: api/<LeaveAllocationsController>
+>>>>>>> Stashed changes
     [HttpGet]
     public async Task<ActionResult<List<LeaveAllocationDto>>> Get(bool isLoggedInUser = false)
     {
         var leaveAllocations = await _mediator.Send(new GetLeaveAllocationListQuery());
         return Ok(leaveAllocations);
+<<<<<<< Updated upstream
     }
 
     // GET api/<LeaveAllocationsController>/5
+=======
+    }
+
+    // GET api/<LeaveAllocationsController>/5
+>>>>>>> Stashed changes
     [HttpGet("{id}")]
     public async Task<ActionResult<LeaveAllocationDetailsDto>> Get(int id)
     {
@@ -69,5 +97,10 @@ public class LeaveAllocationsController : ControllerBase
         var command = new DeleteLeaveAllocationCommand { Id = id };
         await _mediator.Send(command);
         return NoContent();
+<<<<<<< Updated upstream
     }
 }
+=======
+    }
+}
+>>>>>>> Stashed changes

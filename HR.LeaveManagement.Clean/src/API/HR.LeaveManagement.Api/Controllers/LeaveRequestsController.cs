@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 using HR.LeaveManagement.Application.Features.LeaveRequest.Commands.CancelLeaveRequest;
 using HR.LeaveManagement.Application.Features.LeaveRequest.Commands.ChangeLeaveRequest;
 using HR.LeaveManagement.Application.Features.LeaveRequest.Commands.CreateLeaveRequest;
@@ -19,6 +20,29 @@ public class LeaveRequestsController : ControllerBase
     public LeaveRequestsController(IMediator mediator)
     {
         _mediator = mediator;
+=======
+using HR.LeaveManagement.Application.Features.LeaveRequest.Commands.CancelLeaveRequest;
+using HR.LeaveManagement.Application.Features.LeaveRequest.Commands.ChangeLeaveRequest;
+using HR.LeaveManagement.Application.Features.LeaveRequest.Commands.CreateLeaveRequest;
+using HR.LeaveManagement.Application.Features.LeaveRequest.Commands.DeleteLeaveRequest;
+using HR.LeaveManagement.Application.Features.LeaveRequest.Commands.UpdateLeaveRequest;
+using HR.LeaveManagement.Application.Features.LeaveRequest.Queries.GetLeaveRequestDetail;
+using HR.LeaveManagement.Application.Features.LeaveRequest.Queries.GetLeaveRequestList;
+using MediatR;
+using Microsoft.AspNetCore.Mvc;
+
+namespace HR.LeaveManagement.Api.Controllers;
+
+[Route("api/[controller]")]
+[ApiController]
+public class LeaveRequestsController : ControllerBase
+{
+    private readonly IMediator _mediator;
+
+    public LeaveRequestsController(IMediator mediator)
+    {
+        _mediator = mediator;
+>>>>>>> Stashed changes
     }
 
     // GET: api/<LeaveRequestsController>
@@ -97,5 +121,10 @@ public class LeaveRequestsController : ControllerBase
         var command = new DeleteLeaveRequestCommand { Id = id };
         await _mediator.Send(command);
         return NoContent();
+<<<<<<< Updated upstream
     }
 }
+=======
+    }
+}
+>>>>>>> Stashed changes
