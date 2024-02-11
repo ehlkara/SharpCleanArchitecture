@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HR.LeaveManagement.BlazorUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+213f7ca08680b91eedfe41d752baa6bcbadb918e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c79148c7040321614c5fb1d638381be76375f05")]
 [assembly: System.Reflection.AssemblyProductAttribute("HR.LeaveManagement.BlazorUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HR.LeaveManagement.BlazorUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
