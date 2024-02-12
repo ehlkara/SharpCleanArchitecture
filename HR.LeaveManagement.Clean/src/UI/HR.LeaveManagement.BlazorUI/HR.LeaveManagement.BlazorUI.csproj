@@ -28,10 +28,12 @@
     <None Remove="Models\" />
     <None Remove="Models\LeaveTypes\" />
     <None Remove="MappingProfiles\" />
+    <None Remove="Pages\LeaveTypes\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Models\LeaveTypes\" />
     <Folder Include="MappingProfiles\" />
+    <Folder Include="Pages\LeaveTypes\" />
   </ItemGroup>
 </Project>
