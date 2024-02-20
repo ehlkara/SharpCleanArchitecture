@@ -406,8 +406,6 @@ C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManag
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\bin\Debug\net8.0\wwwroot\_framework\System.Console.wasm.gz
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Extensions.wasm.gz
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.wasm.gz
-C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\bin\Debug\net8.0\wwwroot\service-worker.js
-C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\bin\Debug\net8.0\wwwroot\service-worker-assets.js
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\bin\Debug\net8.0\HR.LeaveManagement.BlazorUI.staticwebassets.runtime.json
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\bin\Debug\net8.0\HR.LeaveManagement.BlazorUI.dll
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\bin\Debug\net8.0\HR.LeaveManagement.BlazorUI.pdb
@@ -819,7 +817,10 @@ C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManag
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HR.LeaveManagement.BlazorUI.props
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HR.LeaveManagement.BlazorUI.props
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
+C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\scopedcss\bundle\HR.LeaveManagement.BlazorUI.styles.css
+C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\scopedcss\projectbundle\HR.LeaveManagement.BlazorUI.bundle.scp.css
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\compressed\ymfqvbd41q.gz
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\compressed\iacw8rl1ih.gz
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\compressed\dup6tj2dxa.gz
@@ -1024,8 +1025,6 @@ C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManag
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\compressed\ptirvksx9k.gz
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\compressed\gy8b46ecge.gz
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\compressed\fveyapdap7.gz
-C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\service-worker\service-worker.js
-C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\service-worker-assets.js.build
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.csproj.CopyComplete
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\HR.LeaveManagement.BlazorUI.dll
 C:\Users\ehlullah.karakurt\Documents\GitHub\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\UI\HR.LeaveManagement.BlazorUI\obj\Debug\net8.0\refint\HR.LeaveManagement.BlazorUI.dll
