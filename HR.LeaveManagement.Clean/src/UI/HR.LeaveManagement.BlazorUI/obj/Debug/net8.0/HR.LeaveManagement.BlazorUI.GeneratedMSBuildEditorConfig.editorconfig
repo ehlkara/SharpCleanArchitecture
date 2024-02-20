@@ -34,6 +34,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ehlullah.karakurt/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVUeXBlc1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ehlullah.karakurt/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
