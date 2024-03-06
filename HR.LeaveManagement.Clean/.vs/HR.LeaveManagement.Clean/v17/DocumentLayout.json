@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5025D1B6-3D93-40E9-B91A-E7500318C419}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|\\\\mac\\home\\documents\\github\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\services\\leavetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5025D1B6-3D93-40E9-B91A-E7500318C419}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|\\\\mac\\home\\documents\\github\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5025D1B6-3D93-40E9-B91A-E7500318C419}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|\\\\mac\\home\\documents\\github\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5025D1B6-3D93-40E9-B91A-E7500318C419}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|\\\\mac\\home\\documents\\github\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\services\\leaveallocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5025D1B6-3D93-40E9-B91A-E7500318C419}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|\\\\mac\\home\\documents\\github\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\contracts\\ileavetypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5025D1B6-3D93-40E9-B91A-E7500318C419}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|\\\\mac\\home\\documents\\github\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5025D1B6-3D93-40E9-B91A-E7500318C419}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|\\\\mac\\home\\documents\\github\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\services\\base\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5025D1B6-3D93-40E9-B91A-E7500318C419}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|\\\\mac\\home\\documents\\github\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\services\\base\\clientsettings.nswag||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5025D1B6-3D93-40E9-B91A-E7500318C419}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|\\\\mac\\home\\documents\\github\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\services\\base\\serviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5025D1B6-3D93-40E9-B91A-E7500318C419}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|\\\\mac\\home\\documents\\github\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5025D1B6-3D93-40E9-B91A-E7500318C419}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|\\\\mac\\home\\documents\\github\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5025D1B6-3D93-40E9-B91A-E7500318C419}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|\\\\mac\\home\\documents\\github\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5025D1B6-3D93-40E9-B91A-E7500318C419}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|\\\\mac\\home\\documents\\github\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaveTypeService.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\LeaveTypeService.cs",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\LeaveTypeService.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\LeaveTypeService.cs",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\LeaveTypeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:03:13.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILeaveTypeService.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Contracts\\ILeaveTypeService.cs",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Contracts\\ILeaveTypeService.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Contracts\\ILeaveTypeService.cs",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Contracts\\ILeaveTypeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:03:13.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Properties\\launchSettings.json",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-18T18:03:13.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clientsettings.nswag",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\clientsettings.nswag",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\clientsettings.nswag",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\clientsettings.nswag",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\clientsettings.nswag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-18T18:03:13.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClient.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\IClient.cs",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\IClient.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\IClient.cs",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\IClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:03:13.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Program.cs",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:03:13.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaveAllocationService.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\LeaveAllocationService.cs",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\LeaveAllocationService.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\LeaveAllocationService.cs",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\LeaveAllocationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:03:13.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveRequestService.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\LeaveRequestService.cs",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\LeaveRequestService.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\LeaveRequestService.cs",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\LeaveRequestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:03:13.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceClient.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\ServiceClient.cs",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\ServiceClient.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\ServiceClient.cs",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\ServiceClient.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAQwP4JAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:03:13.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\wwwroot\\index.html",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\wwwroot\\index.html",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-18T18:03:13.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\_Imports.razor",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\_Imports.razor",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\_Imports.razor",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T18:03:13.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.razor",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\App.razor",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\App.razor",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\App.razor",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T18:03:13.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.razor",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Pages\\Home.razor",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Pages\\Home.razor",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-18T18:03:13.833Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 252,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 148,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
