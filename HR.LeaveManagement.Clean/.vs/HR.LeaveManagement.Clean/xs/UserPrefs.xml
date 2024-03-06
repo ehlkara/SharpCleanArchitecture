@@ -1,17 +1,28 @@
-﻿<Properties StartupConfiguration="{4378BED8-33FF-4F2F-B035-27D33586D5B1}|https">
+﻿<Properties StartupConfiguration="{C7BD510E-8080-4426-A7F4-163EBAE73490}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.test.HR.LeaveManagement.Application.UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.src.API.HR.LeaveManagement.Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/UI/HR.LeaveManagement.BlazorUI/Services/Base/ServiceClient.cs">
+    <Files>
+      <File FileName="src/API/HR.LeaveManagement.Api/appsettings.json" Line="1" Column="1" />
+      <File FileName="src/Infrastructure/HR.LeaveManagement.Identity/IdentityServiceRegistration.cs" Line="1" Column="1" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Services/Base/Response.cs" Line="1" Column="1" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Services/Base/ServiceClient.cs" Line="2486" Column="6" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Services/Base/clientsettings.nswag" Line="95" Column="30" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HR.LeaveManagement.Clean" expanded="True" selected="True">
-            <Node name="src" expanded="True" />
-          </Node>
+          <Node name="HR.LeaveManagement.Clean" selected="True" />
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

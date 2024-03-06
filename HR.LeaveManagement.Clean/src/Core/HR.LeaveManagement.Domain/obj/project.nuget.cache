@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4foPAYwYMT7AKJ4QBKW32DAOX7ncieBYA7sAiaNJkEiGcfU9X4ArYDNi9QhUBXtSGJ2XoJBToVl88gMsOmFHFw==",
+  "dgSpecHash": "aRWLIs6E9Nf57o6HaBSaGySY3bVpPAlSj14N8axKsWgiMUfWy1rSkc0Hd3oH/i49exPdROtgsczqNujWhQ5hlQ==",
   "success": true,
   "projectFilePath": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Domain/HR.LeaveManagement.Domain.csproj",
   "expectedPackageFiles": [],
