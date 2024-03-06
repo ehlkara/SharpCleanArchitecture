@@ -34,8 +34,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGVhdmVUeXBlcy9JbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/Pages/Weather.razor]
