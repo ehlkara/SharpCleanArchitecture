@@ -138,14 +138,14 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebAssembly/8.0.1": {
+      "Microsoft.AspNetCore.Components.WebAssembly/8.0.2": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "8.0.1",
+          "Microsoft.AspNetCore.Components.Web": "8.0.2",
           "Microsoft.Extensions.Configuration.Binder": "8.0.1",
           "Microsoft.Extensions.Configuration.Json": "8.0.0",
           "Microsoft.Extensions.Logging": "8.0.0",
-          "Microsoft.JSInterop.WebAssembly": "8.0.1"
+          "Microsoft.JSInterop.WebAssembly": "8.0.2"
         },
         "compile": {
           "lib/net8.0/Microsoft.AspNetCore.Components.WebAssembly.dll": {
@@ -184,7 +184,7 @@
           "buildMultiTargeting/Microsoft.AspNetCore.Components.WebAssembly.Authentication.props": {}
         }
       },
-      "Microsoft.AspNetCore.Components.WebAssembly.DevServer/8.0.1": {
+      "Microsoft.AspNetCore.Components.WebAssembly.DevServer/8.0.2": {
         "type": "package",
         "build": {
           "build/Microsoft.AspNetCore.Components.WebAssembly.DevServer.targets": {}
@@ -646,10 +646,10 @@
           }
         }
       },
-      "Microsoft.JSInterop.WebAssembly/8.0.1": {
+      "Microsoft.JSInterop.WebAssembly/8.0.2": {
         "type": "package",
         "dependencies": {
-          "Microsoft.JSInterop": "8.0.1"
+          "Microsoft.JSInterop": "8.0.2"
         },
         "compile": {
           "lib/net8.0/Microsoft.JSInterop.WebAssembly.dll": {
@@ -903,14 +903,14 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebAssembly/8.0.1": {
+      "Microsoft.AspNetCore.Components.WebAssembly/8.0.2": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "8.0.1",
+          "Microsoft.AspNetCore.Components.Web": "8.0.2",
           "Microsoft.Extensions.Configuration.Binder": "8.0.1",
           "Microsoft.Extensions.Configuration.Json": "8.0.0",
           "Microsoft.Extensions.Logging": "8.0.0",
-          "Microsoft.JSInterop.WebAssembly": "8.0.1"
+          "Microsoft.JSInterop.WebAssembly": "8.0.2"
         },
         "compile": {
           "lib/net8.0/Microsoft.AspNetCore.Components.WebAssembly.dll": {
@@ -949,7 +949,7 @@
           "buildMultiTargeting/Microsoft.AspNetCore.Components.WebAssembly.Authentication.props": {}
         }
       },
-      "Microsoft.AspNetCore.Components.WebAssembly.DevServer/8.0.1": {
+      "Microsoft.AspNetCore.Components.WebAssembly.DevServer/8.0.2": {
         "type": "package",
         "build": {
           "build/Microsoft.AspNetCore.Components.WebAssembly.DevServer.targets": {}
@@ -1411,10 +1411,10 @@
           }
         }
       },
-      "Microsoft.JSInterop.WebAssembly/8.0.1": {
+      "Microsoft.JSInterop.WebAssembly/8.0.2": {
         "type": "package",
         "dependencies": {
-          "Microsoft.JSInterop": "8.0.1"
+          "Microsoft.JSInterop": "8.0.2"
         },
         "compile": {
           "lib/net8.0/Microsoft.JSInterop.WebAssembly.dll": {
@@ -1667,10 +1667,10 @@
         "microsoft.aspnetcore.components.web.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components.WebAssembly/8.0.1": {
-      "sha512": "fOGM6Wc6QULk8GVH+QNmzRjifQhAMaEcWUaxxJGxvyfSQHdHxGP/vj89xvhJI7N42BRqULCEMlQu3UpDpompUQ==",
+    "Microsoft.AspNetCore.Components.WebAssembly/8.0.2": {
+      "sha512": "sRcIKOItL1PUmPkUz6EO07b77wWD4gyyhX7gK7JQ/bgk7HSBT7HRmfsOB/U6x/9V6IZpe5laG2G19Nfccl6lkw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components.webassembly/8.0.1",
+      "path": "microsoft.aspnetcore.components.webassembly/8.0.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1680,7 +1680,7 @@
         "build/net8.0/blazor.webassembly.js",
         "lib/net8.0/Microsoft.AspNetCore.Components.WebAssembly.dll",
         "lib/net8.0/Microsoft.AspNetCore.Components.WebAssembly.xml",
-        "microsoft.aspnetcore.components.webassembly.8.0.1.nupkg.sha512",
+        "microsoft.aspnetcore.components.webassembly.8.0.2.nupkg.sha512",
         "microsoft.aspnetcore.components.webassembly.nuspec"
       ]
     },
@@ -1704,10 +1704,10 @@
         "staticwebassets/AuthenticationService.js"
       ]
     },
-    "Microsoft.AspNetCore.Components.WebAssembly.DevServer/8.0.1": {
-      "sha512": "dhHTKbhAg1Z+0P4qP1Sbb9IhBXvvoGKtffBjpQElPhYKWxuQilStol0p5zeAOvi6UnXpI32h9YCWLKuJyp8FCA==",
+    "Microsoft.AspNetCore.Components.WebAssembly.DevServer/8.0.2": {
+      "sha512": "upzF6ckTFwTzTIh4PJ/wS5uOg4tk/OM7x1gvY/xkCBR1agDeZK7ObAcvv+h4Bs8B528H0ToTXUpeLipNPEbIrA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components.webassembly.devserver/8.0.1",
+      "path": "microsoft.aspnetcore.components.webassembly.devserver/8.0.2",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -1715,7 +1715,7 @@
         "Icon.png",
         "THIRD-PARTY-NOTICES.txt",
         "build/Microsoft.AspNetCore.Components.WebAssembly.DevServer.targets",
-        "microsoft.aspnetcore.components.webassembly.devserver.8.0.1.nupkg.sha512",
+        "microsoft.aspnetcore.components.webassembly.devserver.8.0.2.nupkg.sha512",
         "microsoft.aspnetcore.components.webassembly.devserver.nuspec",
         "tools/ARM64/aspnetcorev2_inprocess.dll",
         "tools/BlazorDebugProxy/BrowserDebugHost.dll",
@@ -2681,10 +2681,10 @@
         "microsoft.jsinterop.nuspec"
       ]
     },
-    "Microsoft.JSInterop.WebAssembly/8.0.1": {
-      "sha512": "yvWSzDRBD0tfEyT+RUni2Nct5iKHP2ZtOnh8fU/6fkFpiISSkXZRON9Rg+G3258EnFGktzpYTSgq5Qo8L9Ax0g==",
+    "Microsoft.JSInterop.WebAssembly/8.0.2": {
+      "sha512": "WXUfnWayu7oT1Wq1/k7yZCJvZXs9SwZZPoQtF/RUl5W8URMa+obK2DTzEaWGQF9x3F92YWdYs78mT7KR23kY3g==",
       "type": "package",
-      "path": "microsoft.jsinterop.webassembly/8.0.1",
+      "path": "microsoft.jsinterop.webassembly/8.0.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2692,7 +2692,7 @@
         "THIRD-PARTY-NOTICES.txt",
         "lib/net8.0/Microsoft.JSInterop.WebAssembly.dll",
         "lib/net8.0/Microsoft.JSInterop.WebAssembly.xml",
-        "microsoft.jsinterop.webassembly.8.0.1.nupkg.sha512",
+        "microsoft.jsinterop.webassembly.8.0.2.nupkg.sha512",
         "microsoft.jsinterop.webassembly.nuspec"
       ]
     },
@@ -3009,9 +3009,9 @@
     "net8.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "Blazored.LocalStorage >= 4.5.0",
-      "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.1",
+      "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.2",
       "Microsoft.AspNetCore.Components.WebAssembly.Authentication >= 8.0.2",
-      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.1",
+      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.2",
       "Microsoft.Extensions.Http >= 8.0.0",
       "Microsoft.NET.ILLink.Tasks >= 8.0.2",
       "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.2",
@@ -3066,7 +3066,7 @@
           },
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",
-            "version": "[8.0.1, )"
+            "version": "[8.0.2, )"
           },
           "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
             "target": "Package",
@@ -3075,7 +3075,7 @@
           "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[8.0.1, )"
+            "version": "[8.0.2, )"
           },
           "Microsoft.Extensions.Http": {
             "target": "Package",

@@ -1,4 +1,4 @@
-﻿using HR.LeaveManagement.BlazorUI.Contracts;
+using HR.LeaveManagement.BlazorUI.Contracts;
 using HR.LeaveManagement.BlazorUI.Providers;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Authorization;
@@ -14,7 +14,7 @@ public partial class Index
     public NavigationManager NavigationManager { get; set; }
 
     [Inject]
-    public IAuthenticationService AuthenticationService { get; set }
+    public IAuthenticationService AuthenticationService { get; set; }
 
     protected async override Task OnInitializedAsync()
     {

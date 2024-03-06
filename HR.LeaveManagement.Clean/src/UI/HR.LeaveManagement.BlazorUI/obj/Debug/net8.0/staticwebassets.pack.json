@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },
     {
-      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/obj/Debug/net8.0/compressed/ddvsspkcst.gz",
+      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/obj/Debug/net8.0/compressed/0uiztvorc2.gz",
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
     },
     {
       "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/obj/Debug/net8.0/scopedcss/bundle/HR.LeaveManagement.BlazorUI.styles.css",
       "PackagePath": "staticwebassets/HR.LeaveManagement.BlazorUI.styles.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/obj/Debug/net8.0/service-worker-assets.js",
+      "PackagePath": "staticwebassets/service-worker-assets.js"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/obj/Debug/net8.0/service-worker/service-worker.published.js",
+      "PackagePath": "staticwebassets/service-worker.js"
     },
     {
       "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/css/app.css",
@@ -25,6 +33,42 @@
       "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
     },
     {
+      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
       "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
@@ -33,8 +77,16 @@
       "PackagePath": "staticwebassets/icon-192.png"
     },
     {
+      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/icon-512.png",
+      "PackagePath": "staticwebassets/icon-512.png"
+    },
+    {
       "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/manifest.json",
+      "PackagePath": "staticwebassets/manifest.json"
     },
     {
       "Id": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/wwwroot/sample-data/weather.json",

@@ -1,10 +1,16 @@
 ﻿@page "/login"
 
 <h3>Login</h3>
+@if (string.IsNullOrEmpty(Message) == false)
+{
+    <div class="alert alert-danger">
+        @Message
+    </div>
+}
 
 <div class="row">
     <div class="col-md-4">
-        <EditForm Model="@Model" OnInvalidSubmit="HandleLogin">
+        <EditForm Model="@Model" OnValidSubmit="HandleLogin">
             <DataAnnotationsValidator />
             <ValidationSummary />
 
@@ -15,7 +21,7 @@
             </div>
             <div class="form-group">
                 <label class="control-label">Password</label>
-                <InputText type="password" id="userName" class="form-control" @bind-Value="@Model.Password"></InputText>
+                <InputText type="password" id="password" class="form-control" @bind-Value="@Model.Password"></InputText>
                 <ValidationMessage For="@(() => Model.Password)" />
             </div>
             <div class="form-group">
@@ -24,3 +30,6 @@
         </EditForm>
     </div>
 </div>
+
+
+

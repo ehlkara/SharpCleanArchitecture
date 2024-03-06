@@ -219,6 +219,8 @@ C:/Users/ehlullah.karakurt/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManag
 C:/Users/ehlullah.karakurt/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/obj/Debug/net8.0/HR.LeaveManagement.Persistence.IntegrationTests.genruntimeconfig.cache
 C:/Users/ehlullah.karakurt/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/obj/Debug/net8.0/ref/HR.LeaveManagement.Persistence.IntegrationTests.dll
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/CoverletSourceRootsMapping_HR.LeaveManagement.Persistence.IntegrationTests
+/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/HR.LeaveManagement.Application.UnitTests.deps.json
+/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/HR.LeaveManagement.Application.UnitTests.runtimeconfig.json
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/EmptyFiles/archive/empty.7z
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/EmptyFiles/archive/empty.bz2
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/EmptyFiles/archive/empty.gz
@@ -261,11 +263,9 @@ C:/Users/ehlullah.karakurt/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManag
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/EmptyFiles/sheet/empty.xlsx
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/EmptyFiles/slide/empty.odp
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/EmptyFiles/slide/empty.pptx
-/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/xunit.runner.visualstudio.testadapter.dll
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
-/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/HR.LeaveManagement.Application.UnitTests.deps.json
-/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/HR.LeaveManagement.Application.UnitTests.runtimeconfig.json
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/HR.LeaveManagement.Persistence.IntegrationTests.deps.json
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/HR.LeaveManagement.Persistence.IntegrationTests.runtimeconfig.json
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/HR.LeaveManagement.Persistence.IntegrationTests.dll
@@ -320,7 +320,6 @@ C:/Users/ehlullah.karakurt/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManag
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/Moq.dll
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/Newtonsoft.Json.dll
-/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/NuGet.Frameworks.dll
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/Shouldly.dll
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/System.CodeDom.dll
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uVXebBqzJaQLXVjloOCw1IBy6GZCD9eVKLQWt9c4IktKVDEaJjIQnx5T4HSdON9xXaaTuCZX4MxSEy36HFHDCA==",
+  "dgSpecHash": "7mJEn5dqBBd/2Q+Q3pM5pWWdzzIyI3YJZZNRsjgxF0FRWWcu2YcVSSkMZLgBIAjK8CfBB1IemIGdmp/bGXDK5w==",
   "success": true,
   "projectFilePath": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/HR.LeaveManagement.BlazorUI.csproj",
   "expectedPackageFiles": [
@@ -13,9 +13,9 @@
     "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.components.authorization/8.0.2/microsoft.aspnetcore.components.authorization.8.0.2.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.components.forms/8.0.2/microsoft.aspnetcore.components.forms.8.0.2.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.components.web/8.0.2/microsoft.aspnetcore.components.web.8.0.2.nupkg.sha512",
-    "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.components.webassembly/8.0.1/microsoft.aspnetcore.components.webassembly.8.0.1.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.components.webassembly/8.0.2/microsoft.aspnetcore.components.webassembly.8.0.2.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.components.webassembly.authentication/8.0.2/microsoft.aspnetcore.components.webassembly.authentication.8.0.2.nupkg.sha512",
-    "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.components.webassembly.devserver/8.0.1/microsoft.aspnetcore.components.webassembly.devserver.8.0.1.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.components.webassembly.devserver/8.0.2/microsoft.aspnetcore.components.webassembly.devserver.8.0.2.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.metadata/8.0.2/microsoft.aspnetcore.metadata.8.0.2.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
@@ -41,7 +41,7 @@
     "/Users/ehlkara/.nuget/packages/microsoft.identitymodel.logging/7.4.0/microsoft.identitymodel.logging.7.4.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.identitymodel.tokens/7.4.0/microsoft.identitymodel.tokens.7.4.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.jsinterop/8.0.2/microsoft.jsinterop.8.0.2.nupkg.sha512",
-    "/Users/ehlkara/.nuget/packages/microsoft.jsinterop.webassembly/8.0.1/microsoft.jsinterop.webassembly.8.0.1.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/microsoft.jsinterop.webassembly/8.0.2/microsoft.jsinterop.webassembly.8.0.2.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.net.illink.tasks/8.0.2/microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.2/microsoft.net.sdk.webassembly.pack.8.0.2.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/system.diagnostics.diagnosticsource/8.0.0/system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",

@@ -2,53 +2,55 @@ using HR.LeaveManagement.BlazorUI.Contracts;
 using HR.LeaveManagement.BlazorUI.Models.LeaveTypes;
 using Microsoft.AspNetCore.Components;
 
-namespace HR.LeaveManagement.BlazorUI.Pages.LeaveTypes;
-
-public partial class Index
+namespace HR.LeaveManagement.BlazorUI.Pages.LeaveTypes
 {
-    [Inject]
-    public NavigationManager NavigationManager { get; set; }
-
-    [Inject]
-    public ILeaveTypeService LeaveTypeService { get; set; }
-
-    public List<LeaveTypeVM> LeaveTypes { get; set; }
-    public string Message { get; set; } = string.Empty;
-
-    protected void CreateLeaveType()
+    public partial class Index
     {
-        NavigationManager.NavigateTo("/leavetypes/create/");
-    }
+        [Inject]
+        public NavigationManager NavigationManager { get; set; }
 
-    protected void AllocateLeaveType(int id)
-    {
-        // Use Leave Allocation Service
-    }
+        [Inject]
+        public ILeaveTypeService LeaveTypeService { get; set; }
 
-    protected void EditLeaveType(int id)
-    {
-        NavigationManager.NavigateTo($"/leavetypes/edit/{id}");
-    }
-    protected void DetailsLeaveType(int id)
-    {
-        NavigationManager.NavigateTo($"/leavetypes/details/{id}");
-    }
+        public List<LeaveTypeVM> LeaveTypes { get; private set; }
+        public string Message { get; set; } = string.Empty;
 
-    protected async Task DeleteLeaveType(int id)
-    {
-        var response = await LeaveTypeService.DeleteLeavetype(id);
-        if (response.Success)
+        protected void CreateLeaveType()
         {
-            StateHasChanged();
+            NavigationManager.NavigateTo("/leavetypes/create/");
         }
-        else
-        {
-            Message = response.Message;
-        }
-    }
 
-    protected override async Task OnInitializedAsync()
-    {
-        LeaveTypes = await LeaveTypeService.GetLeaveTypes();
+        protected void AllocateLeaveType(int id)
+        {
+            // Use Leave Allocation Service here
+        }
+
+        protected void EditLeaveType(int id)
+        {
+            NavigationManager.NavigateTo($"/leavetypes/edit/{id}");
+        }
+
+        protected void DetailsLeaveType(int id)
+        {
+            NavigationManager.NavigateTo($"/leavetypes/details/{id}");
+        }
+
+        protected async Task DeleteLeaveType(int id)
+        {
+            var response = await LeaveTypeService.DeleteLeaveType(id);
+            if (response.Success)
+            {
+                StateHasChanged();
+            }
+            else
+            {
+                Message = response.Message;
+            }
+        }
+
+        protected override async Task OnInitializedAsync()
+        {
+            LeaveTypes = await LeaveTypeService.GetLeaveTypes();
+        }
     }
 }
