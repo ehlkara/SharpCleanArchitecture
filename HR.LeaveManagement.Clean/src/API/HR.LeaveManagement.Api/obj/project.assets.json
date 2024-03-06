@@ -8869,46 +8869,39 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ehlkara\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/ehlkara/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
+      "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/HR.LeaveManagement.Api.csproj",
       "projectName": "HR.LeaveManagement.Api",
-      "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
-      "packagesPath": "C:\\Users\\ehlkara\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\obj\\",
+      "projectPath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/HR.LeaveManagement.Api.csproj",
+      "packagesPath": "/Users/ehlkara/.nuget/packages/",
+      "outputPath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ehlkara\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
-              "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+            "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj": {
+              "projectPath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj"
             },
-            "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj": {
-              "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj"
+            "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/HR.LeaveManagement.Infrastructure.csproj": {
+              "projectPath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/HR.LeaveManagement.Infrastructure.csproj"
             },
-            "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj": {
-              "projectPath": "\\\\Mac\\Home\\Documents\\GitHub\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj"
+            "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Persistence/HR.LeaveManagement.Persistence.csproj": {
+              "projectPath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Persistence/HR.LeaveManagement.Persistence.csproj"
             }
           }
         }
@@ -8917,11 +8910,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8966,7 +8954,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
