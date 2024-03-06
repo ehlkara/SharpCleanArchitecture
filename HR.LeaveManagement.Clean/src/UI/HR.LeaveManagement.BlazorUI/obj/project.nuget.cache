@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rmdFYlMkER5zaF8Y/9yWUhYmT+7s2fpmT25TnvmgaVP4Y/+dfL8N8fMbbWcjt4m/AbdI8fZhOPSUfUH5mY+WMw==",
+  "dgSpecHash": "QH6VjxeXfydi8UXSZBqgA+8W/SddxYmBUXynJ3+850CRkZ5TMNPtLjPpfLVSUfVY8qJN3chQKtrv7oNJyQWn7w==",
   "success": true,
-  "projectFilePath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/HR.LeaveManagement.BlazorUI.csproj",
+  "projectFilePath": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/UI/HR.LeaveManagement.BlazorUI/HR.LeaveManagement.BlazorUI.csproj",
   "expectedPackageFiles": [
     "/Users/ehlkara/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -35,13 +35,13 @@
     "/Users/ehlkara/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.jsinterop/8.0.1/microsoft.jsinterop.8.0.1.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/microsoft.jsinterop.webassembly/8.0.1/microsoft.jsinterop.webassembly.8.0.1.nupkg.sha512",
-    "/Users/ehlkara/.nuget/packages/microsoft.net.illink.tasks/8.0.1/microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
-    "/Users/ehlkara/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.1/microsoft.net.sdk.webassembly.pack.8.0.1.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/microsoft.net.illink.tasks/8.0.2/microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "/Users/ehlkara/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.2/microsoft.net.sdk.webassembly.pack.8.0.2.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/system.diagnostics.diagnosticsource/8.0.0/system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/Users/ehlkara/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
-    "/Users/ehlkara/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.1/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.1.nupkg.sha512"
+    "/Users/ehlkara/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.2/microsoft.netcore.app.runtime.mono.browser-wasm.8.0.2.nupkg.sha512"
   ],
   "logs": []
 }

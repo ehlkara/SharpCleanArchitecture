@@ -1,23 +1,48 @@
-﻿<Properties StartupConfiguration="{4378BED8-33FF-4F2F-B035-27D33586D5B1}|https">
+﻿<Properties StartupConfiguration="{C7BD510E-8080-4426-A7F4-163EBAE73490}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.test.HR.LeaveManagement.Application.UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.src.API.HR.LeaveManagement.Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/API/HR.LeaveManagement.Api/Program.cs">
+    <Files>
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Contracts/IAuthenticationService.cs" Line="10" Column="1" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Services/AuthenticationService.cs" Line="45" Column="90" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Program.cs" Line="24" Column="1" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Services/Base/BaseHttpService.cs" Line="26" Column="1" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Providers/ApiAuthenticationStateProvider.cs" Line="41" Column="46" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Services/LeaveTypeService.cs" Line="50" Column="1" />
+      <File FileName="src/API/HR.LeaveManagement.Api/Controllers/LeaveTypesController.cs" Line="14" Column="16" />
+      <File FileName="src/API/HR.LeaveManagement.Api/Program.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HR.LeaveManagement.Clean">
             <Node name="src" expanded="True">
               <Node name="API" expanded="True">
-                <Node name="HR.LeaveManagement.Api" expanded="True" />
+                <Node name="HR.LeaveManagement.Api">
+                  <Node name="Program.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="UI" expanded="True">
+                <Node name="HR.LeaveManagement.BlazorUI">
+                  <Node name="Contracts" expanded="True" />
+                  <Node name="Providers" expanded="True" />
+                  <Node name="Services" expanded="True">
+                    <Node name="Base" expanded="True" />
+                  </Node>
+                </Node>
               </Node>
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

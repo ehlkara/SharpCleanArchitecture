@@ -8622,11 +8622,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/HR.LeaveManagement.Persistence.IntegrationTests.csproj",
+      "projectUniqueName": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/HR.LeaveManagement.Persistence.IntegrationTests.csproj",
       "projectName": "HR.LeaveManagement.Persistence.IntegrationTests",
-      "projectPath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/HR.LeaveManagement.Persistence.IntegrationTests.csproj",
+      "projectPath": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/HR.LeaveManagement.Persistence.IntegrationTests.csproj",
       "packagesPath": "/Users/ehlkara/.nuget/packages/",
-      "outputPath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/obj/",
+      "outputPath": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Persistence.IntegrationTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
@@ -8642,11 +8642,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Persistence/HR.LeaveManagement.Persistence.csproj": {
-              "projectPath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Persistence/HR.LeaveManagement.Persistence.csproj"
+            "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Persistence/HR.LeaveManagement.Persistence.csproj": {
+              "projectPath": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Persistence/HR.LeaveManagement.Persistence.csproj"
             },
-            "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Application.UnitTests/HR.LeaveManagement.Application.UnitTests.csproj": {
-              "projectPath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Application.UnitTests/HR.LeaveManagement.Application.UnitTests.csproj"
+            "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Application.UnitTests/HR.LeaveManagement.Application.UnitTests.csproj": {
+              "projectPath": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/test/HR.LeaveManagement.Application.UnitTests/HR.LeaveManagement.Application.UnitTests.csproj"
             }
           }
         }
@@ -8710,7 +8710,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
