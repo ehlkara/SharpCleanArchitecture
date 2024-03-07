@@ -1,0 +1,81 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{4378BED8-33FF-4F2F-B035-27D33586D5B1}" ItemName="HR.LeaveManagement.Api" ConfigurationId="https" />
+        <StartupItem ItemId="{194C9A24-AE12-48A8-9E3E-F17371E3A124}" ItemName="HR.LeaveManagement.BlazorUI" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/UI/HR.LeaveManagement.BlazorUI/Providers/ApiAuthenticationStateProvider.cs">
+    <Files>
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Contracts/IAuthenticationService.cs" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Services/AuthenticationService.cs" Line="46" Column="1" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Program.cs" Line="20" Column="44" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Services/Base/BaseHttpService.cs" Line="14" Column="10" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Providers/ApiAuthenticationStateProvider.cs" Line="41" Column="50" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Services/LeaveTypeService.cs" />
+      <File FileName="src/API/HR.LeaveManagement.Api/Controllers/LeaveTypesController.cs" />
+      <File FileName="src/API/HR.LeaveManagement.Api/Program.cs" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/_Imports.razor" Line="14" Column="39" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Pages/Index.razor" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Pages/Index.razor.cs" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Pages/Login.razor" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Pages/Login.razor.cs" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Models/LoginVM.cs" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Shared/BackToList.razor" Line="1" Column="1" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Shared/MainLayout.razor" Line="1" Column="1" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Shared/NavMenu.razor" Line="1" Column="1" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Shared/RedirectToLogin.razor" Line="1" Column="1" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Shared/SurveyPrompt.razor" Line="1" Column="1" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/App.razor" Line="15" Column="25" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Pages/Logout.razor" />
+      <File FileName="src/Infrastructure/HR.LeaveManagement.Identity/Configurations/UserConfiguration.cs" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/Index.razor" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/Index.razor.cs" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Services/Base/Response.cs" Line="1" Column="1" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Services/Base/clientsettings.nswag" Line="18" Column="35" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Services/Base/ServiceClient.cs" Line="163" Column="39" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Services/Base/Client.cs" Line="1" Column="1" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Commands/DeleteLeaveAllocation/DeleteLeaveAllocationCommandHandler.cs" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/DeleteLeaveRequest/DeleteLeaveRequestCommandHandler.cs" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveRequest/Commands/DeleteLeaveRequest/DeleteLeaveRequestCommand.cs" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Commands/DeleteLeaveAllocation/DeleteLeaveAllocationCommand.cs" />
+      <File FileName="src/Core/HR.LeaveManagement.Application/ApplicationServiceRegistration.cs" />
+      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Services/Base/IClient.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HR.LeaveManagement.Clean" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="UI" expanded="True">
+                <Node name="HR.LeaveManagement.BlazorUI">
+                  <Node name="Contracts" expanded="True" />
+                  <Node name="Providers" expanded="True">
+                    <Node name="ApiAuthenticationStateProvider.cs" selected="True" />
+                  </Node>
+                  <Node name="Services" expanded="True">
+                    <Node name="Base" expanded="True" />
+                  </Node>
+                  <Node name="Shared" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.src.API.HR.LeaveManagement.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.src.UI.HR.LeaveManagement.BlazorUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.test.HR.LeaveManagement.Application.UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

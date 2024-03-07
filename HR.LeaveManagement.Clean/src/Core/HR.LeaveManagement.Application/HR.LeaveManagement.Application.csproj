@@ -1,0 +1,84 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.9.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.9.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="MappingProfiles\" />
+    <None Remove="Features\" />
+    <None Remove="Features\LeaveType\" />
+    <None Remove="Features\LeaveType\Commands\" />
+    <None Remove="Features\LeaveType\Queries\" />
+    <None Remove="Features\LeaveType\Queries\GetAllLeaveTypes\" />
+    <None Remove="Features\LeaveType\Queries\GetLeaveTypeDetails\" />
+    <None Remove="Features\LeaveType\Commands\CreateLeaveType\" />
+    <None Remove="Features\LeaveType\Commands\UpdateLeaveType\" />
+    <None Remove="Features\LeaveType\Commands\DeleteLeaveType\" />
+    <None Remove="Exceptions\" />
+    <None Remove="Features\LeaveAllocation\" />
+    <None Remove="Features\LeaveAllocation\Commands\" />
+    <None Remove="Features\LeaveAllocation\Queries\" />
+    <None Remove="Features\LeaveAllocation\Queries\GetLeaveAllocations\" />
+    <None Remove="Features\LeaveAllocation\Queries\GetAllocationDetails\" />
+    <None Remove="Features\LeaveAllocation\Commands\CreateLeaveAllocation\" />
+    <None Remove="Features\LeaveAllocation\Commands\DeleteLeaveAllocation\" />
+    <None Remove="Features\LeaveAllocation\Commands\UpdateLeaveAllocation\" />
+    <None Remove="Features\LeaveRequest\" />
+    <None Remove="Features\LeaveRequest\Commands\" />
+    <None Remove="Features\LeaveRequest\Queries\" />
+    <None Remove="Features\LeaveRequest\Shared\" />
+    <None Remove="Features\LeaveRequest\Commands\CancelLeaveRequest\" />
+    <None Remove="Features\LeaveRequest\Commands\ChangeLeaveRequest\" />
+    <None Remove="Features\LeaveRequest\Commands\CreateLeaveRequest\" />
+    <None Remove="Features\LeaveRequest\Commands\DeleteLeaveRequest\" />
+    <None Remove="Features\LeaveRequest\Commands\UpdateLeaveRequest\" />
+    <None Remove="Features\LeaveRequest\Queries\GetLeaveRequestDetail\" />
+    <None Remove="Features\LeaveRequest\Queries\GetLeaveRequestList\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="MappingProfiles\" />
+    <Folder Include="Features\" />
+    <Folder Include="Features\LeaveType\" />
+    <Folder Include="Features\LeaveType\Commands\" />
+    <Folder Include="Features\LeaveType\Queries\" />
+    <Folder Include="Features\LeaveType\Queries\GetAllLeaveTypes\" />
+    <Folder Include="Features\LeaveType\Queries\GetLeaveTypeDetails\" />
+    <Folder Include="Features\LeaveType\Commands\CreateLeaveType\" />
+    <Folder Include="Features\LeaveType\Commands\UpdateLeaveType\" />
+    <Folder Include="Features\LeaveType\Commands\DeleteLeaveType\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Features\LeaveAllocation\" />
+    <Folder Include="Features\LeaveAllocation\Commands\" />
+    <Folder Include="Features\LeaveAllocation\Queries\" />
+    <Folder Include="Features\LeaveAllocation\Queries\GetLeaveAllocations\" />
+    <Folder Include="Features\LeaveAllocation\Queries\GetAllocationDetails\" />
+    <Folder Include="Features\LeaveAllocation\Commands\CreateLeaveAllocation\" />
+    <Folder Include="Features\LeaveAllocation\Commands\DeleteLeaveAllocation\" />
+    <Folder Include="Features\LeaveAllocation\Commands\UpdateLeaveAllocation\" />
+    <Folder Include="Features\LeaveRequest\" />
+    <Folder Include="Features\LeaveRequest\Commands\" />
+    <Folder Include="Features\LeaveRequest\Queries\" />
+    <Folder Include="Features\LeaveRequest\Shared\" />
+    <Folder Include="Features\LeaveRequest\Commands\CancelLeaveRequest\" />
+    <Folder Include="Features\LeaveRequest\Commands\ChangeLeaveRequest\" />
+    <Folder Include="Features\LeaveRequest\Commands\CreateLeaveRequest\" />
+    <Folder Include="Features\LeaveRequest\Commands\DeleteLeaveRequest\" />
+    <Folder Include="Features\LeaveRequest\Commands\UpdateLeaveRequest\" />
+    <Folder Include="Features\LeaveRequest\Queries\GetLeaveRequestDetail\" />
+    <Folder Include="Features\LeaveRequest\Queries\GetLeaveRequestList\" />
+  </ItemGroup>
+</Project>
