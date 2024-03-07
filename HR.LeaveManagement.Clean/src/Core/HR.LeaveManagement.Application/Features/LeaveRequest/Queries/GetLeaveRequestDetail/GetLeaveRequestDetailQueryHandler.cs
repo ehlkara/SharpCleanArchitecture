@@ -1,31 +1,34 @@
 ﻿using AutoMapper;
 using HR.LeaveManagement.Application.Contracts.Persistence;
 using HR.LeaveManagement.Application.Exceptions;
+using HR.LeaveManagement.Application.Features.LeaveRequest.Queries.GetLeaveRequestDetail;
+using HR.LeaveManagement.Application.Features.LeaveRequests.Requests.Queries;
+using HR.LeaveManagement.Domain;
 using MediatR;
 
-namespace HR.LeaveManagement.Application.Features.LeaveRequest.Queries.GetLeaveRequestDetail;
-
-public class GetLeaveRequestDetailQueryHandler : IRequestHandler<GetLeaveRequestDetailQuery, LeaveRequestDetailsDto>
+namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Queries
 {
-    private readonly ILeaveRequestRepository _leaveRequestRepository;
-    private readonly IMapper _mapper;
-
-    public GetLeaveRequestDetailQueryHandler(ILeaveRequestRepository leaveRequestRepository,
-        IMapper mapper)
+    public class GetLeaveRequestDetailQueryHandler : IRequestHandler<GetLeaveRequestDetailQuery, LeaveRequestDetailsDto>
     {
-        _leaveRequestRepository = leaveRequestRepository;
-        _mapper = mapper;
-    }
-    public async Task<LeaveRequestDetailsDto> Handle(GetLeaveRequestDetailQuery request, CancellationToken cancellationToken)
-    {
-        var leaveRequest = _mapper.Map<LeaveRequestDetailsDto>(await _leaveRequestRepository.GetLeaveRequestWithDetails(request.Id));
+        private readonly ILeaveRequestRepository _leaveRequestRepository;
+        private readonly IMapper _mapper;
 
-        if (leaveRequest == null)
-            throw new NotFoundException(nameof(LeaveRequest), request.Id);
+        public GetLeaveRequestDetailQueryHandler(ILeaveRequestRepository leaveRequestRepository,
+            IMapper mapper)
+        {
+            _leaveRequestRepository = leaveRequestRepository;
+            _mapper = mapper;
+        }
+        public async Task<LeaveRequestDetailsDto> Handle(GetLeaveRequestDetailQuery request, CancellationToken cancellationToken)
+        {
+            var leaveRequest = _mapper.Map<LeaveRequestDetailsDto>(await _leaveRequestRepository.GetLeaveRequestWithDetails(request.Id));
 
-        // Add Employee details as needed
+            if (leaveRequest == null)
+                throw new NotFoundException(nameof(LeaveRequest), request.Id);
 
-        return leaveRequest;
+            // Add Employee details as needed
+
+            return leaveRequest;
+        }
     }
 }
-

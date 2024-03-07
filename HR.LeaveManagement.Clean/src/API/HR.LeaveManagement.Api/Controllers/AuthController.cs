@@ -1,29 +1,31 @@
 ﻿using HR.LeaveManagement.Application.Contracts.Identity;
 using HR.LeaveManagement.Application.Models.Identity;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace HR.LeaveManagement.Api.Controllers;
-
-[Route("api/[controller]")]
-[ApiController]
-public class AuthController : ControllerBase
+namespace HR.LeaveManagement.Api.Controllers
 {
-    private readonly IAuthService _authService;
-
-    public AuthController(IAuthService authService)
+    [Route("api/[controller]")]
+    [ApiController]
+    public class AuthController : ControllerBase
     {
-        _authService = authService;
-    }
+        private readonly IAuthService _authenticationService;
 
-    [HttpPost("login")]
-    public async Task<ActionResult<AuthResponse>> Login(AuthRequest request)
-    {
-        return Ok(await _authService.Login(request));
-    }
+        public AuthController(IAuthService authenticationService)
+        {
+            this._authenticationService = authenticationService;
+        }
 
-    [HttpPost("register")]
-    public async Task<ActionResult<RegistrationResponse>> Register(RegistrationRequest request)
-    {
-        return Ok(await _authService.Register(request));
+        [HttpPost("login")]
+        public async Task<ActionResult<AuthResponse>> Login(AuthRequest request)
+        {
+            return Ok(await _authenticationService.Login(request));
+        }
+
+        [HttpPost("register")]
+        public async Task<ActionResult<RegistrationResponse>> Register(RegistrationRequest request)
+        {
+            return Ok(await _authenticationService.Register(request));
+        }
     }
 }

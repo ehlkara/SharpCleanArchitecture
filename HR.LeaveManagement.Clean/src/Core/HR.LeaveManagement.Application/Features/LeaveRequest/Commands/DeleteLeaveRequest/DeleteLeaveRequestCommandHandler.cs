@@ -1,10 +1,11 @@
-﻿using HR.LeaveManagement.Application.Contracts.Persistence;
+﻿using AutoMapper;
+using HR.LeaveManagement.Application.Contracts.Persistence;
 using HR.LeaveManagement.Application.Exceptions;
 using MediatR;
 
 namespace HR.LeaveManagement.Application.Features.LeaveRequest.Commands.DeleteLeaveRequest;
 
-public class DeleteLeaveRequestCommandHandler : IRequestHandler<DeleteLeaveRequestCommand, Unit>
+public class DeleteLeaveRequestCommandHandler : IRequestHandler<DeleteLeaveRequestCommand>
 {
     private readonly ILeaveRequestRepository _leaveRequestRepository;
 
@@ -24,4 +25,3 @@ public class DeleteLeaveRequestCommandHandler : IRequestHandler<DeleteLeaveReque
         return Unit.Value;
     }
 }
-

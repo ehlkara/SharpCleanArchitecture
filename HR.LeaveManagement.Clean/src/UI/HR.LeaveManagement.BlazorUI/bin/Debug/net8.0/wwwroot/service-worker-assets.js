@@ -1,11 +1,11 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-uhotZszkBLq\/V8xt8UtpU6lGHEIqbqLsFUVGyelV2TU=",
+      "hash": "sha256-10KEeWxsgry5D9LUZc0K86lpIg9RcWdyyBB5sXq6Ypk=",
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7\/p4nS6D\/0=",
+      "hash": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
@@ -13,7 +13,7 @@
       "url": "css\/bootstrap\/bootstrap.min.css.map"
     },
     {
-      "hash": "sha256-jA4J4h\/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI=",
+      "hash": "sha256-+Q44zfEaCMmXduni5Td+IgCbk8sSUQwES2nWs+KKQz0=",
       "url": "css\/open-iconic\/FONT-LICENSE"
     },
     {
@@ -29,7 +29,7 @@
       "url": "css\/open-iconic\/font\/fonts\/open-iconic.otf"
     },
     {
-      "hash": "sha256-+P1oQ5jPzOVJGC52E1oxGXIXxxCyMlqy6A9cNxGYzVk=",
+      "hash": "sha256-oUpLdS+SoLJFwf4bzA3iKD7TCm66oLkTpAQlVJ2s1wc=",
       "url": "css\/open-iconic\/font\/fonts\/open-iconic.svg"
     },
     {
@@ -41,11 +41,11 @@
       "url": "css\/open-iconic\/font\/fonts\/open-iconic.woff"
     },
     {
-      "hash": "sha256-aF5g\/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU\/ss=",
+      "hash": "sha256-s\/Is6Ey6jfNAEfXUIOyHrXXX+RcA8hzchYnuOIWUMl4=",
       "url": "css\/open-iconic\/ICON-LICENSE"
     },
     {
-      "hash": "sha256-waukoLqsiIAw\/nXpsKkTHnhImmcPijcBEd2lzqzJNN0=",
+      "hash": "sha256-f7rXj2KSx8rOrKHjkkyN+tLJV5mfHEDVLGIZvcj\/hgg=",
       "url": "css\/open-iconic\/README.md"
     },
     {
@@ -61,19 +61,19 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-ctP8ZOJ1Mg2Z\/idAKe0jJ74\/WX6SS2SC9LcSCvbaBkY=",
+      "hash": "sha256-kRKyXCTQc8szvc5D0dhvvW0SKE1VBQQ9F8HFIVfSn9Q=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-hTzv\/v9xIW5zZ6U+O7pNDgALGIzjsw5DRZew2cpiJtU=",
+      "hash": "sha256-Opkizr4WglQqVYMQcjxcq0JcKTY03rhxL8PNRY+z4Pc=",
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ\/A6aYYSQjZfVn2cU=",
+      "hash": "sha256-paIeuWnSzjeLGITWkk4p3rcejUsZWCJGPeOK9UhWXtg=",
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-4GzO86F3KxxZddHIa+l\/3oA2LWvyzQhvDV4vfsvqEVQ=",
+      "hash": "sha256-2JE71aChsx2vMdmZ5Qb+iBkYyQlthAsELUDqPaRuBiE=",
       "url": "HR.LeaveManagement.BlazorUI.styles.css"
     },
     {
@@ -937,15 +937,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-9djkQv9pQTZw0MXc8mCYw9ZOle2WLkZCoXIFS24oURc=",
+      "hash": "sha256-Nyw+7yMJQuOYtaUeful8SO2HRxpRdPkd+X0x3VFsVQc=",
       "url": "_framework\/HR.LeaveManagement.BlazorUI.wasm"
     },
     {
-      "hash": "sha256-8l5g5WTc7KR0CYn9Msdc+B1WXdDgwXucFMamrybBJUY=",
+      "hash": "sha256-gFWyz9QjETAYxk9+o3B69nfkJEYyxYmZyEfskyiBFz4=",
       "url": "_framework\/HR.LeaveManagement.BlazorUI.pdb"
     },
     {
-      "hash": "sha256-j1irfbin0zC75q4jQaXh32mtQfUT3dTsKlpq3l\/bnSg=",
+      "hash": "sha256-XHU0LI2fVwC8QC5MgcTWWps6Bz2L4qzoN6FwrGY+QJI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -953,5 +953,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "pATDfkhO"
+  "version": "uL\/oCUob"
 };

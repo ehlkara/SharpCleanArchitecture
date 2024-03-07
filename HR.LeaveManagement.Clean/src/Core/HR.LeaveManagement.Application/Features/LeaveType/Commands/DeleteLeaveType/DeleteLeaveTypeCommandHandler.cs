@@ -1,11 +1,13 @@
-﻿using HR.LeaveManagement.Application.Contracts.Persistence;
+﻿using AutoMapper;
+using HR.LeaveManagement.Application.Contracts.Persistence;
 using HR.LeaveManagement.Application.Exceptions;
+using HR.LeaveManagement.Domain;
 using MediatR;
 
 namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.DeleteLeaveType
 {
     public class DeleteLeaveTypeCommandHandler : IRequestHandler<DeleteLeaveTypeCommand, Unit>
-	{
+    {
         private readonly ILeaveTypeRepository _leaveTypeRepository;
 
         public DeleteLeaveTypeCommandHandler(ILeaveTypeRepository leaveTypeRepository)
@@ -25,9 +27,8 @@ namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.DeleteLeave
             // remove from database
             await _leaveTypeRepository.DeleteAsync(leaveTypeToDelete);
 
-            // retur record id
+            // retun record id
             return Unit.Value;
         }
     }
 }
-

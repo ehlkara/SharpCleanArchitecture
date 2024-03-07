@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kOPTaC2leZqDriSjkkKneEgLnpl2MNXhov5Wch1uVCaNqK68PWntYHZC/6HR4bpmi+4V81RtYh1J/wlOflVnKQ==",
+  "dgSpecHash": "NVffkC4wjH50utSyflbkoVNjsCJZak/SK/+rn7oiwReNxGxKfnv826PjPX+nWS6m3oz+YmnsRGzy4/Zbn5wIGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj",
   "expectedPackageFiles": [
@@ -47,6 +47,7 @@
     "C:\\Users\\EHLULLAH.KARAKURT\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\EHLULLAH.KARAKURT\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.4.0\\system.identitymodel.tokens.jwt.7.4.0.nupkg.sha512",
     "C:\\Users\\EHLULLAH.KARAKURT\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\EHLULLAH.KARAKURT\\.nuget\\packages\\system.net.http.json\\8.0.0\\system.net.http.json.8.0.0.nupkg.sha512",
     "C:\\Users\\EHLULLAH.KARAKURT\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\EHLULLAH.KARAKURT\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
     "C:\\Users\\EHLULLAH.KARAKURT\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.2.nupkg.sha512"

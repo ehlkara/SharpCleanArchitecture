@@ -1,6 +1,6 @@
 ﻿using HR.LeaveManagement.Application.Features.LeaveType.Queries.GetAllLeaveTypes;
 
-namespace HR.LeaveManagement.Application.Features.LeaveRequest.Queries.GetLeaveRequestList;
+namespace HR.LeaveManagement.Application.DTOs.LeaveRequest;
 
 public class LeaveRequestListDto
 {
@@ -11,4 +11,3 @@ public class LeaveRequestListDto
     public DateTime EndDate { get; set; }
     public bool? Approved { get; set; }
 }
-

@@ -87,7 +87,7 @@
     "Parameters": [
       {
         "Name": "leaveAllocation",
-        "Type": "HR.LeaveManagement.Application.Features.LeaveAllocation.Commands.CreateLeaveAllocation.CreateLeaveAllocationCommand",
+        "Type": "HR.LeaveManagement.Application.Features.LeaveAllocations.Requests.Commands.CreateLeaveAllocationCommand",
         "IsRequired": true
       }
     ],
@@ -127,7 +127,7 @@
     "Parameters": [
       {
         "Name": "leaveAllocation",
-        "Type": "HR.LeaveManagement.Application.Features.LeaveAllocation.Commands.UpdateLeaveAllocation.UpdateLeaveAllocationCommand",
+        "Type": "HR.LeaveManagement.Application.Features.LeaveAllocations.Requests.Commands.UpdateLeaveAllocationCommand",
         "IsRequired": true
       }
     ],
@@ -182,7 +182,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HR.LeaveManagement.Application.Features.LeaveAllocation.Queries.GetAllocationDetails.LeaveAllocationDetailsDto",
+        "Type": "HR.LeaveManagement.Application.Features.LeaveAllocation.Queries.GetLeaveAllocationDetails.LeaveAllocationDetailsDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -248,7 +248,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[HR.LeaveManagement.Application.Features.LeaveRequest.Queries.GetLeaveRequestList.LeaveRequestListDto, HR.LeaveManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[HR.LeaveManagement.Application.DTOs.LeaveRequest.LeaveRequestListDto, HR.LeaveManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -268,7 +268,7 @@
     "Parameters": [
       {
         "Name": "leaveRequest",
-        "Type": "HR.LeaveManagement.Application.Features.LeaveRequest.Commands.CreateLeaveRequest.CreateLeaveRequestCommand",
+        "Type": "HR.LeaveManagement.Application.Features.LeaveRequests.Requests.Commands.CreateLeaveRequestCommand",
         "IsRequired": true
       }
     ],
@@ -472,7 +472,7 @@
     "Parameters": [
       {
         "Name": "updateApprovalRequest",
-        "Type": "HR.LeaveManagement.Application.Features.LeaveRequest.Commands.ChangeLeaveRequest.ChangeLeaveRequestApprovalCommand",
+        "Type": "HR.LeaveManagement.Application.Features.LeaveRequest.Commands.ChangeLeaveRequestApproval.ChangeLeaveRequestApprovalCommand",
         "IsRequired": true
       }
     ],
@@ -559,6 +559,15 @@
           "text/json"
         ],
         "StatusCode": 400
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
       }
     ]
   },
@@ -578,7 +587,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HR.LeaveManagement.Application.Features.LeaveType.Queries.GetAllLeaveTypes.LeaveTypeDto",
+        "Type": "HR.LeaveManagement.Application.Features.LeaveType.Queries.GetLeaveTypeDetails.LeaveTypeDetailsDto",
         "MediaTypes": [
           "text/plain",
           "application/json",

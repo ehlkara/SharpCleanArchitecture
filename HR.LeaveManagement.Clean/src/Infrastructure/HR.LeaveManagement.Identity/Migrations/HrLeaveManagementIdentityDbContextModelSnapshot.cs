@@ -17,7 +17,7 @@ namespace HR.LeaveManagement.Identity.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.2")
+                .HasAnnotation("ProductVersion", "7.0.2")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -99,7 +99,7 @@ namespace HR.LeaveManagement.Identity.Migrations
                         {
                             Id = "8e445865-a24d-4543-a6c6-9443d048cdb9",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "50c8278a-8e74-47bc-a413-80aa88d944ef",
+                            ConcurrencyStamp = "823ebc87-73f2-4536-8888-b46cbc553fde",
                             Email = "admin@localhost.com",
                             EmailConfirmed = true,
                             FirstName = "System",
@@ -107,9 +107,9 @@ namespace HR.LeaveManagement.Identity.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "ADMIN@LOCALHOST.COM",
                             NormalizedUserName = "ADMIN@LOCALHOST.COM",
-                            PasswordHash = "AQAAAAIAAYagAAAAEKV78TbiKhWH1AllHMphx/xvdEsrE94hrqoxoEBwiWyicqDgrl3xZH54FxXMtUuYEA==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEHG+Wr32Q4gy5ID6SDSoupxypfBrc7x8bAAzB9VmtSiI8layR3t9cd+KRXhRVWgWvA==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "1db57890-2052-4998-9177-a267f555a07d",
+                            SecurityStamp = "b022ab64-6ecb-47a4-9354-1a30b43526e1",
                             TwoFactorEnabled = false,
                             UserName = "admin@localhost.com"
                         },
@@ -117,7 +117,7 @@ namespace HR.LeaveManagement.Identity.Migrations
                         {
                             Id = "9e224968-33e4-4652-b7b7-8574d048cdb9",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "d2b4cce5-7649-4ef1-be0b-748a31f2d249",
+                            ConcurrencyStamp = "4f15daf3-f706-494b-959d-34269ca97cce",
                             Email = "user@localhost.com",
                             EmailConfirmed = true,
                             FirstName = "System",
@@ -125,9 +125,9 @@ namespace HR.LeaveManagement.Identity.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "USER@LOCALHOST.COM",
                             NormalizedUserName = "USER@LOCALHOST.COM",
-                            PasswordHash = "AQAAAAIAAYagAAAAEBMd9C+fjgmsuAOMdp42UhLoBWORsaZEeWeeafvehUgYxbJuGZ5a0JRUwvtXVHktyg==",
+                            PasswordHash = "AQAAAAIAAYagAAAAEIfLIhzceV6HotllWpB5MOCsBa77x2Zcab03SldoD5i/zO2K7a5EKFwM9LYvqE3DIA==",
                             PhoneNumberConfirmed = false,
-                            SecurityStamp = "e1d8479e-51f1-4e4e-ab04-ba6791bd0286",
+                            SecurityStamp = "bb20c594-ce3a-4c40-9965-fec45201eb77",
                             TwoFactorEnabled = false,
                             UserName = "user@localhost.com"
                         });

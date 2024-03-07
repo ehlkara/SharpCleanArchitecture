@@ -1,61 +1,58 @@
-﻿using HR.LeaveManagement.Domain;
+using HR.LeaveManagement.Domain;
 using HR.LeaveManagement.Persistence.DatabaseContext;
 using Microsoft.EntityFrameworkCore;
 using Shouldly;
 
-namespace HR.LeaveManagement.Persistence.IntegrationTests;
-
-public class HrDatabaseContextTests
+namespace HR.LeaveManagement.Persistence.IntegrationTests
 {
-    private HrDatabaseContext _hrDatabaseContext;
-
-    public HrDatabaseContextTests()
+    public class HrDatabaseContextTests
     {
-        var dbOptions = new DbContextOptionsBuilder<HrDatabaseContext>()
-            .UseInMemoryDatabase(Guid.NewGuid().ToString()).Options;
+        private HrDatabaseContext _hrDatabaseContext;
 
-        _hrDatabaseContext = new HrDatabaseContext(dbOptions);
-    }
-
-    [Fact]
-    public async void Save_SetDateCreatedValue()
-    {
-        // Arrange
-        var leaveType = new LeaveType
+        public HrDatabaseContextTests()
         {
-            Id = 1,
-            DefaultDays = 10,
-            Name = "Test Vacation"
-        };
+            var dbOptions = new DbContextOptionsBuilder<HrDatabaseContext>()
+                .UseInMemoryDatabase(Guid.NewGuid().ToString()).Options;
 
-        // Act
+            _hrDatabaseContext = new HrDatabaseContext(dbOptions);
+        }
 
-        await _hrDatabaseContext.LeaveTypes.AddAsync(leaveType);
-        await _hrDatabaseContext.SaveChangesAsync();
-
-        // Assert
-
-        leaveType.DateCreated.ShouldNotBeNull();
-    }
-
-    [Fact]
-    public async void Save_SetDateModifiedValue()
-    {
-        // Arrange
-        var leaveType = new LeaveType
+        [Fact]
+        public async void Save_SetDateCreatedValue()
         {
-            Id = 1,
-            DefaultDays = 10,
-            Name = "Test Vacation"
-        };
+            // Arrange
+            var leaveType = new LeaveType
+            {
+                Id = 1,
+                DefaultDays = 10,
+                Name = "Test Vacation"
+            };
 
-        // Act
+            // Act
+            await _hrDatabaseContext.LeaveTypes.AddAsync(leaveType);
+            await _hrDatabaseContext.SaveChangesAsync();
 
-        await _hrDatabaseContext.LeaveTypes.AddAsync(leaveType);
-        await _hrDatabaseContext.SaveChangesAsync();
+            // Assert
+            leaveType.DateCreated.ShouldNotBeNull();
+        }
 
-        // Assert
+        [Fact]
+        public async void Save_SetDateModifiedValue()
+        {
+            // Arrange
+            var leaveType = new LeaveType
+            {
+                Id = 1,
+                DefaultDays = 10,
+                Name = "Test Vacation"
+            };
 
-        leaveType.DateModified.ShouldNotBeNull();
+            // Act
+            await _hrDatabaseContext.LeaveTypes.AddAsync(leaveType);
+            await _hrDatabaseContext.SaveChangesAsync();
+
+            // Assert
+            leaveType.DateModified.ShouldNotBeNull();
+        }
     }
 }

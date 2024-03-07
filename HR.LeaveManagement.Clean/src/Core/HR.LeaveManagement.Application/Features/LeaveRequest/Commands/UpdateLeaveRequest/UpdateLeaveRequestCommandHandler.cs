@@ -1,5 +1,4 @@
-﻿using System;
-using AutoMapper;
+﻿using AutoMapper;
 using HR.LeaveManagement.Application.Contracts.Email;
 using HR.LeaveManagement.Application.Contracts.Logging;
 using HR.LeaveManagement.Application.Contracts.Persistence;
@@ -66,4 +65,3 @@ public class UpdateLeaveRequestCommandHandler : IRequestHandler<UpdateLeaveReque
         return Unit.Value;
     }
 }
-

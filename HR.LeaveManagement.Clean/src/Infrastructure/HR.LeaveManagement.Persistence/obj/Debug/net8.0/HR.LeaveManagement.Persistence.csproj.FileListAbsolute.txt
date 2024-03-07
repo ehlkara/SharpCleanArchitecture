@@ -53,6 +53,7 @@ C:/Users/ehlullah.karakurt/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManag
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Persistence/obj/Debug/net8.0/HR.LeaveManagement.Persistence.pdb
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Persistence/obj/Debug/net8.0/ref/HR.LeaveManagement.Persistence.dll
 C:\Users\EHLULLAH.KARAKURT\Documents\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\Infrastructure\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Persistence.deps.json
+C:\Users\EHLULLAH.KARAKURT\Documents\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\Infrastructure\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Persistence.runtimeconfig.json
 C:\Users\EHLULLAH.KARAKURT\Documents\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\Infrastructure\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Persistence.dll
 C:\Users\EHLULLAH.KARAKURT\Documents\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\Infrastructure\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Persistence.pdb
 C:\Users\EHLULLAH.KARAKURT\Documents\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\Infrastructure\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Application.dll
@@ -69,4 +70,5 @@ C:\Users\EHLULLAH.KARAKURT\Documents\SharpCleanArchitecture\HR.LeaveManagement.C
 C:\Users\EHLULLAH.KARAKURT\Documents\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\Infrastructure\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.dll
 C:\Users\EHLULLAH.KARAKURT\Documents\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\Infrastructure\HR.LeaveManagement.Persistence\obj\Debug\net8.0\refint\HR.LeaveManagement.Persistence.dll
 C:\Users\EHLULLAH.KARAKURT\Documents\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\Infrastructure\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.pdb
+C:\Users\EHLULLAH.KARAKURT\Documents\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\Infrastructure\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.genruntimeconfig.cache
 C:\Users\EHLULLAH.KARAKURT\Documents\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\Infrastructure\HR.LeaveManagement.Persistence\obj\Debug\net8.0\ref\HR.LeaveManagement.Persistence.dll
