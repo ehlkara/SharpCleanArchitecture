@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HR.LeaveManagement.Application.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da8930bd03adfc0185121c909e0246fa218a37a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2de188a763795398341f7cf15954af896aeadfcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("HR.LeaveManagement.Application.UnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HR.LeaveManagement.Application.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
