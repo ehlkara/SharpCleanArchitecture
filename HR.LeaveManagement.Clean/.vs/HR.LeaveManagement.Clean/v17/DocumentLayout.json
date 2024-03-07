@@ -1,12 +1,302 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{194C9A24-AE12-48A8-9E3E-F17371E3A124}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|c:\\users\\ehlullah.karakurt\\documents\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194C9A24-AE12-48A8-9E3E-F17371E3A124}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|solutionrelative:src\\ui\\hr.leavemanagement.blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194C9A24-AE12-48A8-9E3E-F17371E3A124}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|c:\\users\\ehlullah.karakurt\\documents\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194C9A24-AE12-48A8-9E3E-F17371E3A124}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|solutionrelative:src\\ui\\hr.leavemanagement.blazorui\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194C9A24-AE12-48A8-9E3E-F17371E3A124}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|c:\\users\\ehlullah.karakurt\\documents\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\services\\base\\clientsettings.nswag||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{194C9A24-AE12-48A8-9E3E-F17371E3A124}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|solutionrelative:src\\ui\\hr.leavemanagement.blazorui\\services\\base\\clientsettings.nswag||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194C9A24-AE12-48A8-9E3E-F17371E3A124}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|c:\\users\\ehlullah.karakurt\\documents\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\services\\base\\basehttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194C9A24-AE12-48A8-9E3E-F17371E3A124}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|solutionrelative:src\\ui\\hr.leavemanagement.blazorui\\services\\base\\basehttpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4378BED8-33FF-4F2F-B035-27D33586D5B1}|src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|c:\\users\\ehlullah.karakurt\\documents\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\api\\hr.leavemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4378BED8-33FF-4F2F-B035-27D33586D5B1}|src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|solutionrelative:src\\api\\hr.leavemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266524E5-92E0-405A-8D8A-7EF369D9A2D3}|src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|c:\\users\\ehlullah.karakurt\\documents\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\infrastructure\\hr.leavemanagement.identity\\identityservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266524E5-92E0-405A-8D8A-7EF369D9A2D3}|src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj|solutionrelative:src\\infrastructure\\hr.leavemanagement.identity\\identityservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4378BED8-33FF-4F2F-B035-27D33586D5B1}|src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|c:\\users\\ehlullah.karakurt\\documents\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\api\\hr.leavemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4378BED8-33FF-4F2F-B035-27D33586D5B1}|src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|solutionrelative:src\\api\\hr.leavemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25E1D1E-83A2-4EC2-B696-375EDA86B7D8}|src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|c:\\users\\ehlullah.karakurt\\documents\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\infrastructure\\hr.leavemanagement.infrastructure\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25E1D1E-83A2-4EC2-B696-375EDA86B7D8}|src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|solutionrelative:src\\infrastructure\\hr.leavemanagement.infrastructure\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BD510E-8080-4426-A7F4-163EBAE73490}|test\\HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj|c:\\users\\ehlullah.karakurt\\documents\\sharpcleanarchitecture\\hr.leavemanagement.clean\\test\\hr.leavemanagement.application.unittests\\hr.leavemanagement.application.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7BD510E-8080-4426-A7F4-163EBAE73490}|test\\HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj|solutionrelative:test\\hr.leavemanagement.application.unittests\\hr.leavemanagement.application.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D55CA7E-CE76-4376-A901-C4473DD74184}|test\\HR.LeaveManagement.Persistence.IntegrationTests\\HR.LeaveManagement.Persistence.IntegrationTests.csproj|c:\\users\\ehlullah.karakurt\\documents\\sharpcleanarchitecture\\hr.leavemanagement.clean\\test\\hr.leavemanagement.persistence.integrationtests\\hr.leavemanagement.persistence.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D55CA7E-CE76-4376-A901-C4473DD74184}|test\\HR.LeaveManagement.Persistence.IntegrationTests\\HR.LeaveManagement.Persistence.IntegrationTests.csproj|solutionrelative:test\\hr.leavemanagement.persistence.integrationtests\\hr.leavemanagement.persistence.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4378BED8-33FF-4F2F-B035-27D33586D5B1}|src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|c:\\users\\ehlullah.karakurt\\documents\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\api\\hr.leavemanagement.api\\models\\customvalidationproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4378BED8-33FF-4F2F-B035-27D33586D5B1}|src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|solutionrelative:src\\api\\hr.leavemanagement.api\\models\\customvalidationproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4378BED8-33FF-4F2F-B035-27D33586D5B1}|src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|c:\\users\\ehlullah.karakurt\\documents\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\api\\hr.leavemanagement.api\\hr.leavemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4378BED8-33FF-4F2F-B035-27D33586D5B1}|src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|solutionrelative:src\\api\\hr.leavemanagement.api\\hr.leavemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6132E6A2-20FC-4C93-9344-1EE09067A332}|src\\Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|c:\\users\\ehlullah.karakurt\\documents\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\infrastructure\\hr.leavemanagement.persistence\\migrations\\hrdatabasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6132E6A2-20FC-4C93-9344-1EE09067A332}|src\\Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|solutionrelative:src\\infrastructure\\hr.leavemanagement.persistence\\migrations\\hrdatabasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\obj\\Debug\\net8.0\\HR.LeaveManagement.Api.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\API\\HR.LeaveManagement.Api\\obj\\Debug\\net8.0\\HR.LeaveManagement.Api.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\obj\\Debug\\net8.0\\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\obj\\Debug\\net8.0\\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Core\\HR.LeaveManagement.Domain\\obj\\Debug\\net8.0\\HR.LeaveManagement.Domain.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Core\\HR.LeaveManagement.Domain\\obj\\Debug\\net8.0\\HR.LeaveManagement.Domain.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Program.cs",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Program.cs",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T07:07:11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T07:06:58.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clientsettings.nswag",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\clientsettings.nswag",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\clientsettings.nswag",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\clientsettings.nswag",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\clientsettings.nswag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-07T07:03:24.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseHttpService.cs",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\BaseHttpService.cs",
+              "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\BaseHttpService.cs",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\BaseHttpService.cs",
+              "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\BaseHttpService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T07:03:21.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\API\\HR.LeaveManagement.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\appsettings.json",
+              "RelativeToolTip": "src\\API\\HR.LeaveManagement.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T07:00:16.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdentityServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Identity\\IdentityServicesRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\HR.LeaveManagement.Identity\\IdentityServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Identity\\IdentityServicesRegistration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\HR.LeaveManagement.Identity\\IdentityServicesRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:58:41.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InfrastructureServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:58:01.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HR.LeaveManagement.Infrastructure.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\obj\\Debug\\net8.0\\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\obj\\Debug\\net8.0\\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\obj\\Debug\\net8.0\\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs",
+              "RelativeToolTip": "src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\obj\\Debug\\net8.0\\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:54:01.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HR.LeaveManagement.Domain.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Core\\HR.LeaveManagement.Domain\\obj\\Debug\\net8.0\\HR.LeaveManagement.Domain.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "src\\Core\\HR.LeaveManagement.Domain\\obj\\Debug\\net8.0\\HR.LeaveManagement.Domain.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Core\\HR.LeaveManagement.Domain\\obj\\Debug\\net8.0\\HR.LeaveManagement.Domain.AssemblyInfo.cs",
+              "RelativeToolTip": "src\\Core\\HR.LeaveManagement.Domain\\obj\\Debug\\net8.0\\HR.LeaveManagement.Domain.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:53:57.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HR.LeaveManagement.Persistence.IntegrationTests.csproj",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\test\\HR.LeaveManagement.Persistence.IntegrationTests\\HR.LeaveManagement.Persistence.IntegrationTests.csproj",
+              "RelativeDocumentMoniker": "test\\HR.LeaveManagement.Persistence.IntegrationTests\\HR.LeaveManagement.Persistence.IntegrationTests.csproj",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\test\\HR.LeaveManagement.Persistence.IntegrationTests\\HR.LeaveManagement.Persistence.IntegrationTests.csproj",
+              "RelativeToolTip": "test\\HR.LeaveManagement.Persistence.IntegrationTests\\HR.LeaveManagement.Persistence.IntegrationTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-07T06:51:55.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\API\\HR.LeaveManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\Program.cs",
+              "RelativeToolTip": "src\\API\\HR.LeaveManagement.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:49:59.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HR.LeaveManagement.Api.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\obj\\Debug\\net8.0\\HR.LeaveManagement.Api.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "src\\API\\HR.LeaveManagement.Api\\obj\\Debug\\net8.0\\HR.LeaveManagement.Api.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\obj\\Debug\\net8.0\\HR.LeaveManagement.Api.AssemblyInfo.cs",
+              "RelativeToolTip": "src\\API\\HR.LeaveManagement.Api\\obj\\Debug\\net8.0\\HR.LeaveManagement.Api.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:54:02.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAADoHAAAAAAAAAAAewEoHAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-07T06:52:50.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomValidationProblemDetails.cs",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\Models\\CustomValidationProblemDetails.cs",
+              "RelativeDocumentMoniker": "src\\API\\HR.LeaveManagement.Api\\Models\\CustomValidationProblemDetails.cs",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\Models\\CustomValidationProblemDetails.cs",
+              "RelativeToolTip": "src\\API\\HR.LeaveManagement.Api\\Models\\CustomValidationProblemDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:49:09.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HR.LeaveManagement.Application.UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\test\\HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj",
+              "RelativeDocumentMoniker": "test\\HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\test\\HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj",
+              "RelativeToolTip": "test\\HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-07T06:46:07.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HR.LeaveManagement.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
+              "RelativeDocumentMoniker": "src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
+              "RelativeToolTip": "src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-07T06:47:58.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HrDatabaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\Migrations\\HrDatabaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\HR.LeaveManagement.Persistence\\Migrations\\HrDatabaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\Migrations\\HrDatabaseContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\Infrastructure\\HR.LeaveManagement.Persistence\\Migrations\\HrDatabaseContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:46:44.513Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
