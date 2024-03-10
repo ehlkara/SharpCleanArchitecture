@@ -1,7 +1,4 @@
 ﻿<Properties StartupConfiguration="Multiple Projects">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.src.UI.HR.LeaveManagement.BlazorUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.src.API.HR.LeaveManagement.Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
@@ -16,64 +13,54 @@
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Commands/CreateLeaveAllocation/CreateLeaveAllocationCommandHandler.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../usr/local/share/dotnet/sdk/8.0.201/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets">
     <Files>
-      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Shared/BackToList.razor" Line="9" Column="23" />
-      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/_Imports.razor" Line="1" Column="1" />
-      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/App.razor" Line="17" Column="29" />
-      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Commands/CreateLeaveAllocation/CreateLeaveAllocationCommandHandler.cs" Line="61" Column="74" />
-      <File FileName="src/Core/HR.LeaveManagement.Application/Contracts/Identity/IUserService.cs" Line="8" Column="26" />
-      <File FileName="src/Infrastructure/HR.LeaveManagement.Identity/Services/UserService.cs" Line="17" Column="33" />
-      <File FileName="src/Core/HR.LeaveManagement.Application/Contracts/Persistence/ILeaveAllocationRepository.cs" Line="10" Column="29" />
-      <File FileName="src/Infrastructure/HR.LeaveManagement.Persistence/Repositories/LeaveAllocationRepository.cs" Line="19" Column="29" />
-      <File FileName="src/API/HR.LeaveManagement.Api/Controllers/LeaveAllocationsController.cs" Line="47" Column="1" />
-      <File FileName="src/Core/HR.LeaveManagement.Application/Features/LeaveAllocation/Commands/CreateLeaveAllocation/CreateLeaveAllocationCommand.cs" Line="10" Column="1" />
-      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/Index.razor" Line="47" Column="65" />
-      <File FileName="src/UI/HR.LeaveManagement.BlazorUI/Pages/LeaveTypes/Index.razor.cs" Line="29" Column="63" />
-      <File FileName="src/API/HR.LeaveManagement.Api/Middleware/ExceptionMiddleware.cs" Line="26" Column="1" />
+      <File FileName="../../../../../../usr/local/share/dotnet/sdk/8.0.201/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="266" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HR.LeaveManagement.Clean">
+          <Node name="HR.LeaveManagement.Clean" expanded="True" selected="True">
             <Node name="src" expanded="True">
               <Node name="API" expanded="True">
                 <Node name="HR.LeaveManagement.Api" expanded="True">
-                  <Node name="Controllers" expanded="True" />
-                  <Node name="Middleware" expanded="True" />
+                  <Node name="Dependencies" expanded="True">
+                    <Node name="PackageDependencies" expanded="True" />
+                  </Node>
                 </Node>
               </Node>
               <Node name="Core" expanded="True">
-                <Node name="HR.LeaveManagement.Application">
-                  <Node name="Contracts" expanded="True">
-                    <Node name="Identity" expanded="True" />
-                    <Node name="Persistence" expanded="True" />
-                  </Node>
-                  <Node name="Features">
-                    <Node name="LeaveAllocation">
-                      <Node name="Commands">
-                        <Node name="CreateLeaveAllocation">
-                          <Node name="CreateLeaveAllocationCommandHandler.cs" selected="True" />
-                        </Node>
-                      </Node>
-                    </Node>
+                <Node name="HR.LeaveManagement.Application" expanded="True">
+                  <Node name="Dependencies" expanded="True">
+                    <Node name="PackageDependencies" expanded="True" />
                   </Node>
                 </Node>
               </Node>
               <Node name="Infrastructure" expanded="True">
                 <Node name="HR.LeaveManagement.Identity" expanded="True">
-                  <Node name="Services" expanded="True" />
+                  <Node name="Dependencies" expanded="True">
+                    <Node name="PackageDependencies" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="HR.LeaveManagement.Infrastructure" expanded="True">
+                  <Node name="Dependencies" expanded="True">
+                    <Node name="PackageDependencies" expanded="True" />
+                  </Node>
                 </Node>
                 <Node name="HR.LeaveManagement.Persistence" expanded="True">
+                  <Node name="Dependencies" expanded="True">
+                    <Node name="PackageDependencies" expanded="True" />
+                  </Node>
                   <Node name="Repositories" expanded="True" />
                 </Node>
               </Node>
-              <Node name="UI" expanded="True">
+              <Node name="UI">
                 <Node name="HR.LeaveManagement.BlazorUI">
-                  <Node name="Pages">
-                    <Node name="LeaveTypes">
-                      <Node name="Index.razor" expanded="True" />
-                    </Node>
+                  <Node name="Dependencies" expanded="True">
+                    <Node name="PackageDependencies" expanded="True" />
+                  </Node>
+                  <Node name="Services" expanded="True">
+                    <Node name="Base" expanded="True" />
                   </Node>
                 </Node>
               </Node>
@@ -81,9 +68,9 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.src.UI.HR.LeaveManagement.BlazorUI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

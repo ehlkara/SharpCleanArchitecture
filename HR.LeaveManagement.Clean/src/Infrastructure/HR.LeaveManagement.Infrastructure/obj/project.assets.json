@@ -257,7 +257,7 @@
           }
         }
       },
-      "SendGrid/9.28.1": {
+      "SendGrid/9.29.2": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
@@ -806,10 +806,10 @@
         "packageIcon.png"
       ]
     },
-    "SendGrid/9.28.1": {
-      "sha512": "LyIkgjd+svXuQxpqe5pvyOccyUdKcDqwnBNDPjyCngkKeVpXAOTAr3U1DBLWqHEbFHvu2UBFki3SJzDwxvJdfA==",
+    "SendGrid/9.29.2": {
+      "sha512": "/Uj+2Wd4poD73okfZApJe98QNwSBHzyrz73Ovz4m2Jvw5dHwxRsVYF9jUPsGR3WjkID3EOEMBa4EBiKuBHUfjg==",
       "type": "package",
-      "path": "sendgrid/9.28.1",
+      "path": "sendgrid/9.29.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -825,7 +825,7 @@
         "lib/netstandard2.0/SendGrid.dll",
         "lib/netstandard2.0/SendGrid.pdb",
         "lib/netstandard2.0/SendGrid.xml",
-        "sendgrid.9.28.1.nupkg.sha512",
+        "sendgrid.9.29.2.nupkg.sha512",
         "sendgrid.nuspec"
       ]
     },
@@ -863,46 +863,37 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 8.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 8.0.0",
       "Microsoft.Extensions.Options.ConfigurationExtensions >= 8.0.0",
-      "SendGrid >= 9.28.1"
+      "SendGrid >= 9.29.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EHLULLAH.KARAKURT\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/ehlkara/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
+      "projectUniqueName": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/HR.LeaveManagement.Infrastructure.csproj",
       "projectName": "HR.LeaveManagement.Infrastructure",
-      "projectPath": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\EHLULLAH.KARAKURT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\obj\\",
+      "projectPath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/HR.LeaveManagement.Infrastructure.csproj",
+      "packagesPath": "/Users/ehlkara/.nuget/packages/",
+      "outputPath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\EHLULLAH.KARAKURT\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/ehlkara/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
-              "projectPath": "C:\\Users\\EHLULLAH.KARAKURT\\Documents\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+            "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj": {
+              "projectPath": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/HR.LeaveManagement.Application.csproj"
             }
           }
         }
@@ -911,11 +902,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -940,7 +926,7 @@
           },
           "SendGrid": {
             "target": "Package",
-            "version": "[9.28.1, )"
+            "version": "[9.29.2, )"
           }
         },
         "imports": [
@@ -959,7 +945,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
