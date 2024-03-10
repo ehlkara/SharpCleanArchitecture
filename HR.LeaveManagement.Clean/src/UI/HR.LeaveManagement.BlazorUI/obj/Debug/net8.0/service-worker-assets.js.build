@@ -910,7 +910,7 @@
     },
     {
       "hash": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg=",
-      "url": "_framework\/dotnet.native.8.0.2.cgsj9djcvb.js"
+      "url": "_framework\/dotnet.native.8.0.2.cfz2rwbip8.js"
     },
     {
       "hash": "sha256-C2P+OTYZAJlmqo6rc4heqwvIVVsXIF8MAxC6WRe96Eg=",
@@ -918,7 +918,7 @@
     },
     {
       "hash": "sha256-54KSaoOArNfygQbV+r4B5y3ys53v2tnvFIyZcZiUmi0=",
-      "url": "_framework\/dotnet.runtime.8.0.2.tbvjaopwl5.js"
+      "url": "_framework\/dotnet.runtime.8.0.2.le8oa4mmpo.js"
     },
     {
       "hash": "sha256-xwfrrQLMSHgt1BRo3XyqOUai153fscVJiT3auAkbK9w=",
@@ -937,15 +937,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-Nyw+7yMJQuOYtaUeful8SO2HRxpRdPkd+X0x3VFsVQc=",
+      "hash": "sha256-4T6h7FMrgrzRXzCw9nszp8Wbq07F5ManxiSik4EZDc0=",
       "url": "_framework\/HR.LeaveManagement.BlazorUI.wasm"
     },
     {
-      "hash": "sha256-gFWyz9QjETAYxk9+o3B69nfkJEYyxYmZyEfskyiBFz4=",
+      "hash": "sha256-M7NFlqhpuJaJFB3wtvX+MAto5mszoXU1Ajt2D5wtrdA=",
       "url": "_framework\/HR.LeaveManagement.BlazorUI.pdb"
     },
     {
-      "hash": "sha256-XHU0LI2fVwC8QC5MgcTWWps6Bz2L4qzoN6FwrGY+QJI=",
+      "hash": "sha256-aG8G33m2ybAbAw9mx+6ey7ffzrZrE5mbQLe1IfJEy+I=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -953,5 +953,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "uL\/oCUob"
+  "version": "0Bu2uWtc"
 };

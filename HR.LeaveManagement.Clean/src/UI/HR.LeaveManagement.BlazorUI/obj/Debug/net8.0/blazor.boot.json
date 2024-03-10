@@ -1,12 +1,12 @@
 {
   "mainAssemblyName": "HR.LeaveManagement.BlazorUI",
   "resources": {
-    "hash": "sha256-USvlnwCFZ5XTcQE5eWbykzM2Z8uQEQlKTYflq5tgRWQ=",
+    "hash": "sha256-AEPhUNh4lbN+MfW98PKGud45hWlsrJDzShY/IBquFMg=",
     "jsModuleNative": {
-      "dotnet.native.8.0.2.cgsj9djcvb.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
+      "dotnet.native.8.0.2.cfz2rwbip8.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.2.tbvjaopwl5.js": "sha256-54KSaoOArNfygQbV+r4B5y3ys53v2tnvFIyZcZiUmi0="
+      "dotnet.runtime.8.0.2.le8oa4mmpo.js": "sha256-54KSaoOArNfygQbV+r4B5y3ys53v2tnvFIyZcZiUmi0="
     },
     "wasmNative": {
       "dotnet.native.wasm": "sha256-C2P+OTYZAJlmqo6rc4heqwvIVVsXIF8MAxC6WRe96Eg="
@@ -222,10 +222,10 @@
       "mscorlib.wasm": "sha256-OH3kXneWqQMz6CUSo6POZqIeMqn9+5RR+IgHn5TnIwA=",
       "netstandard.wasm": "sha256-ZOswxXEbR2TmqjpbaBEdgr85Bv1NC4GwOwoJ+oxXM3M=",
       "System.Private.CoreLib.wasm": "sha256-I2w0iHf5nvSQyF1YE1VbgdTzmmz6a4OE6J7vo5wFa/4=",
-      "HR.LeaveManagement.BlazorUI.wasm": "sha256-Nyw+7yMJQuOYtaUeful8SO2HRxpRdPkd+X0x3VFsVQc="
+      "HR.LeaveManagement.BlazorUI.wasm": "sha256-4T6h7FMrgrzRXzCw9nszp8Wbq07F5ManxiSik4EZDc0="
     },
     "pdb": {
-      "HR.LeaveManagement.BlazorUI.pdb": "sha256-gFWyz9QjETAYxk9+o3B69nfkJEYyxYmZyEfskyiBFz4="
+      "HR.LeaveManagement.BlazorUI.pdb": "sha256-M7NFlqhpuJaJFB3wtvX+MAto5mszoXU1Ajt2D5wtrdA="
     }
   },
   "cacheBootResources": true,
