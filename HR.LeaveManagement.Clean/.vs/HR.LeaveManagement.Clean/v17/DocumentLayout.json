@@ -87,7 +87,7 @@
               "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Properties\\launchSettings.json",
               "ToolTip": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Properties\\launchSettings.json",
               "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-10T21:51:43.81Z",
               "EditorCaption": ""
@@ -102,8 +102,7 @@
               "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T07:07:11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T07:07:11Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\AuthenticationService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T07:06:58.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T07:06:58.368Z"
             },
             {
               "$type": "Document",

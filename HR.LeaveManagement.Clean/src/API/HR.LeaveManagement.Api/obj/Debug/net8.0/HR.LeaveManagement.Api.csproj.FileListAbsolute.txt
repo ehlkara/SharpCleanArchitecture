@@ -1187,3 +1187,12 @@ E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManage
 E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManagement.Api\obj\Debug\net8.0\HR.LeaveManagement.Api.pdb
 E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManagement.Api\obj\Debug\net8.0\HR.LeaveManagement.Api.genruntimeconfig.cache
 E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManagement.Api\obj\Debug\net8.0\ref\HR.LeaveManagement.Api.dll
+E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManagement.Api\bin\Debug\net8.0\Serilog.dll
+E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManagement.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManagement.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManagement.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManagement.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManagement.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManagement.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManagement.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManagement.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll

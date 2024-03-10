@@ -4,11 +4,13 @@
     "Projects": [
       {
         "Name": "src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": "https"
       },
       {
         "Name": "src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": "IIS Express"
       }
     ]
   }
