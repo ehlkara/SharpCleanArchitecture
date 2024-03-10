@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\Migrations\\20240310222457_AddedMoreAuditFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\HR.LeaveManagement.Persistence\\Migrations\\20240310222457_AddedMoreAuditFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{194C9A24-AE12-48A8-9E3E-F17371E3A124}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|e:\\github\\sharpcleanarchitecture\\hr.leavemanagement.clean\\src\\ui\\hr.leavemanagement.blazorui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{194C9A24-AE12-48A8-9E3E-F17371E3A124}|src\\UI\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj|solutionrelative:src\\ui\\hr.leavemanagement.blazorui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -82,6 +86,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240310222457_AddedMoreAuditFields.cs",
+              "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\Migrations\\20240310222457_AddedMoreAuditFields.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\HR.LeaveManagement.Persistence\\Migrations\\20240310222457_AddedMoreAuditFields.cs",
+              "ToolTip": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\Migrations\\20240310222457_AddedMoreAuditFields.cs",
+              "RelativeToolTip": "src\\Infrastructure\\HR.LeaveManagement.Persistence\\Migrations\\20240310222457_AddedMoreAuditFields.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T22:24:57.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Properties\\launchSettings.json",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Program.cs",
               "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Program.cs",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthenticationService.cs",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\AuthenticationService.cs",
               "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\AuthenticationService.cs",
@@ -118,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BaseHttpService.cs",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\BaseHttpService.cs",
               "RelativeDocumentMoniker": "src\\UI\\HR.LeaveManagement.BlazorUI\\Services\\Base\\BaseHttpService.cs",
@@ -130,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\appsettings.json",
               "RelativeDocumentMoniker": "src\\API\\HR.LeaveManagement.Api\\appsettings.json",
@@ -142,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IdentityServicesRegistration.cs",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Identity\\IdentityServicesRegistration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HR.LeaveManagement.Identity\\IdentityServicesRegistration.cs",
@@ -154,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "InfrastructureServicesRegistration.cs",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\InfrastructureServicesRegistration.cs",
@@ -166,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "HR.LeaveManagement.Infrastructure.AssemblyInfo.cs",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\obj\\Debug\\net8.0\\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\obj\\Debug\\net8.0\\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs",
@@ -178,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "HR.LeaveManagement.Domain.AssemblyInfo.cs",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Core\\HR.LeaveManagement.Domain\\obj\\Debug\\net8.0\\HR.LeaveManagement.Domain.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "src\\Core\\HR.LeaveManagement.Domain\\obj\\Debug\\net8.0\\HR.LeaveManagement.Domain.AssemblyInfo.cs",
@@ -190,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "HR.LeaveManagement.Persistence.IntegrationTests.csproj",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\test\\HR.LeaveManagement.Persistence.IntegrationTests\\HR.LeaveManagement.Persistence.IntegrationTests.csproj",
               "RelativeDocumentMoniker": "test\\HR.LeaveManagement.Persistence.IntegrationTests\\HR.LeaveManagement.Persistence.IntegrationTests.csproj",
@@ -202,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\API\\HR.LeaveManagement.Api\\Program.cs",
@@ -214,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "HR.LeaveManagement.Api.AssemblyInfo.cs",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\obj\\Debug\\net8.0\\HR.LeaveManagement.Api.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "src\\API\\HR.LeaveManagement.Api\\obj\\Debug\\net8.0\\HR.LeaveManagement.Api.AssemblyInfo.cs",
@@ -226,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -236,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CustomValidationProblemDetails.cs",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\Models\\CustomValidationProblemDetails.cs",
               "RelativeDocumentMoniker": "src\\API\\HR.LeaveManagement.Api\\Models\\CustomValidationProblemDetails.cs",
@@ -248,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "HR.LeaveManagement.Application.UnitTests.csproj",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\test\\HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj",
               "RelativeDocumentMoniker": "test\\HR.LeaveManagement.Application.UnitTests\\HR.LeaveManagement.Application.UnitTests.csproj",
@@ -260,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "HR.LeaveManagement.Api.csproj",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
               "RelativeDocumentMoniker": "src\\API\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
@@ -272,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "HrDatabaseContextModelSnapshot.cs",
               "DocumentMoniker": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\Migrations\\HrDatabaseContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\HR.LeaveManagement.Persistence\\Migrations\\HrDatabaseContextModelSnapshot.cs",
