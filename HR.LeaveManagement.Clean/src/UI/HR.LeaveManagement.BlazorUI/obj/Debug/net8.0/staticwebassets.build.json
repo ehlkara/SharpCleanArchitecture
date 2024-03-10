@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FJpN9dp6jamogIMsV/KnA2QLk4OKwO/BL9CfGTXGnt8=",
+  "Hash": "mfSRq9zVQym3L6VGjIhuRO9KcMIjLVrreg01G5Ox/sg=",
   "Source": "HR.LeaveManagement.BlazorUI",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\ehlul\\.nuget\\packages\\blazored.toast\\4.2.0\\staticwebassets\\Blazored.Toast.bundle.scp.css",
+      "SourceId": "Blazored.Toast",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\ehlul\\.nuget\\packages\\blazored.toast\\4.2.0\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Toast",
+      "RelativePath": "Blazored.Toast.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ehlul\\.nuget\\packages\\blazored.toast\\4.2.0\\staticwebassets\\Blazored.Toast.bundle.scp.css"
+    },
     {
       "Identity": "C:\\Users\\ehlul\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.authentication\\8.0.2\\staticwebassets\\AuthenticationService.js",
       "SourceId": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
@@ -129,6 +148,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\obj\\Debug\\net8.0\\webcil\\Blazored.LocalStorage.wasm"
+    },
+    {
+      "Identity": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Blazored.Toast.wasm",
+      "SourceId": "HR.LeaveManagement.BlazorUI",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Toast.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\obj\\Debug\\net8.0\\webcil\\Blazored.Toast.wasm"
     },
     {
       "Identity": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
@@ -6380,6 +6418,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm"
+    },
+    {
+      "Identity": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\obj\\Debug\\net8.0\\compressed\\ig8mo05bdz.gz",
+      "SourceId": "HR.LeaveManagement.BlazorUI",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Toast.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Blazored.Toast.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Blazored.Toast.wasm"
     },
     {
       "Identity": "E:\\Github\\SharpCleanArchitecture\\HR.LeaveManagement.Clean\\src\\UI\\HR.LeaveManagement.BlazorUI\\obj\\Debug\\net8.0\\compressed\\iriyj5uodc.gz",

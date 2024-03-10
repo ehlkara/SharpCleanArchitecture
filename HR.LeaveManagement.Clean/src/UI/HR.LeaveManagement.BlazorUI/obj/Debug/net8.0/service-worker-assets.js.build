@@ -73,12 +73,12 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-k8NfwuwCCeOoFCP+4FuP9FeUzGyohHbIWvOxkXEPg\/w=",
-      "url": "_framework\/blazor.webassembly.js"
+      "hash": "sha256-V6yXEK8id8YbjrdOfuLGzARrrDflSavgjRoN8sPeit4=",
+      "url": "HR.LeaveManagement.BlazorUI.styles.css"
     },
     {
-      "hash": "sha256-2JE71aChsx2vMdmZ5Qb+iBkYyQlthAsELUDqPaRuBiE=",
-      "url": "HR.LeaveManagement.BlazorUI.styles.css"
+      "hash": "sha256-k8NfwuwCCeOoFCP+4FuP9FeUzGyohHbIWvOxkXEPg\/w=",
+      "url": "_framework\/blazor.webassembly.js"
     },
     {
       "hash": "sha256-ZQSB98bRoMRi9VGnS4rbVaTRPwmPIYrY1BBPbc2h38g=",
@@ -91,6 +91,10 @@
     {
       "hash": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7\/icnnYcU=",
       "url": "_framework\/Blazored.LocalStorage.wasm"
+    },
+    {
+      "hash": "sha256-LRWdw7zAhRzRSgiRYmOZcRyLZXaFT9Zr7U9KhosRNRw=",
+      "url": "_framework\/Blazored.Toast.wasm"
     },
     {
       "hash": "sha256-xpsdU9uDJz5t2\/e+ZH5CkB8nfZeCmSo9PqwquQX4B2U=",
@@ -937,21 +941,25 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-f6DdRkkpvANddod1H32\/DqNHvAbHaOxlTQqLnnXBZdc=",
+      "hash": "sha256-8LLtJsF\/5l0An\/Sn98JZSAo6AJb8g+tAG3COhrnut58=",
       "url": "_framework\/HR.LeaveManagement.BlazorUI.wasm"
     },
     {
-      "hash": "sha256-RDXgSWrp3aSeK7jDAdCfhxDSRMIchinmMemj2OVgjsM=",
+      "hash": "sha256-Uz3g+CXS5qqHvVA5Ghap5UoyVPaOUzmnM1P08gFS\/KA=",
       "url": "_framework\/HR.LeaveManagement.BlazorUI.pdb"
     },
     {
-      "hash": "sha256-m\/DahUU9Nco9qxcQow73AgiYktaNT+WADwymhoOqfl8=",
+      "hash": "sha256-NGd6Gmr\/k6vLT7Y5I+GvxMpXb4phqQKO2HfssCntk64=",
       "url": "_framework\/blazor.boot.json"
     },
     {
       "hash": "sha256-Qlj6NGS978hjVyrYLtW5G6trKGerdW4Fwgvr2eUo\/lU=",
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
+    },
+    {
+      "hash": "sha256-Jpy8GsZRrXfBBSxMmBBAzhap27c5\/Nt85Nt7V3JT3B4=",
+      "url": "_content\/Blazored.Toast\/Blazored.Toast.bundle.scp.css"
     }
   ],
-  "version": "4525mx\/g"
+  "version": "V80JTpKs"
 };

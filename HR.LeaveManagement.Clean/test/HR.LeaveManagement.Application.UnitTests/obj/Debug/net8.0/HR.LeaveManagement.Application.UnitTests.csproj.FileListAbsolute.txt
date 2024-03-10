@@ -666,6 +666,7 @@ C:\Users\EHLULLAH.KARAKURT\Documents\SharpCleanArchitecture\HR.LeaveManagement.C
 C:\Users\EHLULLAH.KARAKURT\Documents\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagement.Application.UnitTests\obj\Debug\net8.0\HR.LeaveManagement.Application.UnitTests.genruntimeconfig.cache
 C:\Users\EHLULLAH.KARAKURT\Documents\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagement.Application.UnitTests\obj\Debug\net8.0\ref\HR.LeaveManagement.Application.UnitTests.dll
 E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagement.Application.UnitTests\bin\Debug\net8.0\CoverletSourceRootsMapping
+E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagement.Application.UnitTests\bin\Debug\net8.0\testhost.dll
 E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagement.Application.UnitTests\bin\Debug\net8.0\EmptyFiles\archive\empty.7z
 E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagement.Application.UnitTests\bin\Debug\net8.0\EmptyFiles\archive\empty.bz2
 E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagement.Application.UnitTests\bin\Debug\net8.0\EmptyFiles\archive\empty.gz
@@ -709,7 +710,6 @@ E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagemen
 E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagement.Application.UnitTests\bin\Debug\net8.0\EmptyFiles\slide\empty.odp
 E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagement.Application.UnitTests\bin\Debug\net8.0\EmptyFiles\slide\empty.pptx
 E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagement.Application.UnitTests\bin\Debug\net8.0\testhost.exe
-E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagement.Application.UnitTests\bin\Debug\net8.0\testhost.dll
 E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagement.Application.UnitTests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagement.Application.UnitTests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
 E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\test\HR.LeaveManagement.Application.UnitTests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll

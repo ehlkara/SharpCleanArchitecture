@@ -21,3 +21,19 @@ HR.LeaveManagement.Application.Exceptions.BadRequestException: Credentials for '
    at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
    at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
    at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-03-11 01:42:21.114 +03:00 [INF] Now listening on: https://localhost:7112
+2024-03-11 01:42:21.268 +03:00 [INF] Now listening on: http://localhost:5209
+2024-03-11 01:42:21.398 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-11 01:42:21.401 +03:00 [INF] Hosting environment: Development
+2024-03-11 01:42:21.402 +03:00 [INF] Content root path: E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManagement.Api
+2024-03-11 01:43:21.328 +03:00 [INF] HTTP OPTIONS /api/Auth/login responded 204 in 17.4545 ms
+2024-03-11 01:43:26.344 +03:00 [INF] HTTP POST /api/Auth/login responded 200 in 4966.8601 ms
+2024-03-11 01:44:10.630 +03:00 [INF] HTTP OPTIONS /api/LeaveRequests responded 204 in 7.8607 ms
+2024-03-11 01:44:11.857 +03:00 [INF] HTTP GET /api/LeaveRequests responded 200 in 1201.7978 ms
+2024-03-11 01:52:03.891 +03:00 [INF] Now listening on: https://localhost:7112
+2024-03-11 01:52:04.170 +03:00 [INF] Now listening on: http://localhost:5209
+2024-03-11 01:52:04.423 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-03-11 01:52:04.494 +03:00 [INF] Hosting environment: Development
+2024-03-11 01:52:04.556 +03:00 [INF] Content root path: E:\Github\SharpCleanArchitecture\HR.LeaveManagement.Clean\src\API\HR.LeaveManagement.Api
+2024-03-11 01:57:10.880 +03:00 [INF] HTTP OPTIONS /api/Auth/login responded 204 in 24.9121 ms
+2024-03-11 01:57:15.667 +03:00 [INF] HTTP POST /api/Auth/login responded 200 in 4735.8237 ms
