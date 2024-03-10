@@ -73,12 +73,12 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-CngSPcBLqCidnpW9ozIUGmDsQVum2Ll+9vZWyNw77OA=",
-      "url": "HR.LeaveManagement.BlazorUI.styles.css"
-    },
-    {
       "hash": "sha256-k8NfwuwCCeOoFCP+4FuP9FeUzGyohHbIWvOxkXEPg\/w=",
       "url": "_framework\/blazor.webassembly.js"
+    },
+    {
+      "hash": "sha256-CngSPcBLqCidnpW9ozIUGmDsQVum2Ll+9vZWyNw77OA=",
+      "url": "HR.LeaveManagement.BlazorUI.styles.css"
     },
     {
       "hash": "sha256-ZQSB98bRoMRi9VGnS4rbVaTRPwmPIYrY1BBPbc2h38g=",
@@ -937,15 +937,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-UNCPibWPNvV3NDDMA+mUjaNNO4cXUxJ4wMZt+96RF\/c=",
+      "hash": "sha256-u370FbsnGFM6aIxurI3Ut6BNlerYvVFAO6Gco6EdUew=",
       "url": "_framework\/HR.LeaveManagement.BlazorUI.wasm"
     },
     {
-      "hash": "sha256-H+ar+i2GvFzqW\/DXcRd46PAXI4Zl3FpDYeEB2DCljZ8=",
+      "hash": "sha256-XTe9jnYutWT80cMQAJFgSHNDhj+PEgybbPCvwTlva+M=",
       "url": "_framework\/HR.LeaveManagement.BlazorUI.pdb"
     },
     {
-      "hash": "sha256-Ds58ILRemNRAP\/12FckklnjdJxIvT2GUshuJlD85Pm8=",
+      "hash": "sha256-Ccnb0KPbG1tjH\/YPkR16hBxvtUyS8yF8lA6ERvsgLKQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -953,5 +953,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "DJsE7KdD"
+  "version": "zh4Y8yGB"
 };

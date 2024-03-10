@@ -25,7 +25,6 @@ C:/Users/ehlullah.karakurt/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManag
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.AssemblyInfo.cs
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.sourcelink.json
-/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.csproj.CopyComplete
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.dll
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/refint/HR.LeaveManagement.Application.dll
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.pdb
@@ -46,3 +45,4 @@ C:/Users/ehlullah.karakurt/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManag
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/refint/HR.LeaveManagement.Application.dll
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.LeaveManagement.Application.pdb
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/ref/HR.LeaveManagement.Application.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Core/HR.LeaveManagement.Application/obj/Debug/net8.0/HR.Leave.CEB84392.Up2Date

@@ -29,7 +29,6 @@ C:/Users/ehlullah.karakurt/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManag
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net8.0/HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net8.0/HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net8.0/HR.LeaveManagement.Infrastructure.sourcelink.json
-/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net8.0/HR.LeaveManagement.Infrastructure.csproj.CopyComplete
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net8.0/HR.LeaveManagement.Infrastructure.dll
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net8.0/refint/HR.LeaveManagement.Infrastructure.dll
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net8.0/HR.LeaveManagement.Infrastructure.pdb
@@ -52,3 +51,4 @@ C:/Users/ehlullah.karakurt/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManag
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net8.0/refint/HR.LeaveManagement.Infrastructure.dll
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net8.0/HR.LeaveManagement.Infrastructure.pdb
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net8.0/ref/HR.LeaveManagement.Infrastructure.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/Infrastructure/HR.LeaveManagement.Infrastructure/obj/Debug/net8.0/HR.Leave.04E17DFA.Up2Date

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xIlvM/H0NxVO9D37ubcwu3VN6W8vic+i2mbDqDtvres=",
+  "Hash": "nJM8XgdOOaYW3vlMUOX3w5fq+rCxA6XMf15myjlaoPM=",
   "Source": "HR.LeaveManagement.Api",
   "BasePath": "_content/HR.LeaveManagement.Api",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "/Users/ehlkara/.nuget/packages/microsoft.aspnetcore.components.quickgrid/8.0.2/staticwebassets/QuickGrid.razor.js"
     },
     {
-      "Identity": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/scopedcss/bundle/HR.LeaveManagement.Api.styles.css",
+      "Identity": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/scopedcss/bundle/HR.LeaveManagement.Api.styles.css",
       "SourceId": "HR.LeaveManagement.Api",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/HR.LeaveManagement.Api",
       "RelativePath": "HR.LeaveManagement.Api.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/scopedcss/bundle/HR.LeaveManagement.Api.styles.css"
+      "OriginalItemSpec": "/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/scopedcss/bundle/HR.LeaveManagement.Api.styles.css"
     }
   ]
 }

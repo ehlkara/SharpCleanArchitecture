@@ -290,7 +290,6 @@ C:/Users/ehlullah.karakurt/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManag
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HR.LeaveManagement.Api.props
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/staticwebassets.pack.json
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/scopedcss/bundle/HR.LeaveManagement.Api.styles.css
-/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/HR.LeaveManagement.Api.csproj.CopyComplete
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/HR.LeaveManagement.Api.dll
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/refint/HR.LeaveManagement.Api.dll
 /Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/HR.LeaveManagement.Api.pdb
@@ -855,3 +854,14 @@ C:/Users/ehlullah.karakurt/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManag
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/HR.LeaveManagement.Api.pdb
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/HR.LeaveManagement.Api.genruntimeconfig.cache
 /Users/ehlkara/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/ref/HR.LeaveManagement.Api.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/bin/Debug/net8.0/HR.LeaveManagement.Identity.dll
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/bin/Debug/net8.0/HR.LeaveManagement.Identity.pdb
+/Users/ehlkara/Documents/GitHub/SharpCleanArchitecture/HR.LeaveManagement.Clean/src/API/HR.LeaveManagement.Api/obj/Debug/net8.0/HR.Leave.8D1F604C.Up2Date
