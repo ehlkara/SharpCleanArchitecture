@@ -1,10 +1,11 @@
-using HR.LeaveManagement.Application.Features.LeaveAllocation.Commands.CreateLeaveAllocation;
-using HR.LeaveManagement.Application.Features.LeaveAllocation.Commands.DeleteLeaveAllocation;
-using HR.LeaveManagement.Application.Features.LeaveAllocation.Commands.UpdateLeaveAllocation;
-using HR.LeaveManagement.Application.Features.LeaveAllocation.Queries.GetAllocationDetails;
+﻿using HR.LeaveManagement.Application.Features.LeaveAllocation.Queries.GetLeaveAllocationDetails;
 using HR.LeaveManagement.Application.Features.LeaveAllocation.Queries.GetLeaveAllocations;
+using HR.LeaveManagement.Application.Features.LeaveAllocations.Requests.Commands;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+
+// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace HR.LeaveManagement.Api.Controllers;
 
@@ -57,7 +58,6 @@ public class LeaveAllocationsController : ControllerBase
         await _mediator.Send(leaveAllocation);
         return NoContent();
     }
-
 
     // DELETE api/<LeaveAllocationsController>/5
     [HttpDelete("{id}")]

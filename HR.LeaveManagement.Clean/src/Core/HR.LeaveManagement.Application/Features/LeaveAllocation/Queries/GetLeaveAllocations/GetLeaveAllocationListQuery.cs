@@ -5,4 +5,3 @@ namespace HR.LeaveManagement.Application.Features.LeaveAllocation.Queries.GetLea
 public class GetLeaveAllocationListQuery : IRequest<List<LeaveAllocationDto>>
 {
 }
-

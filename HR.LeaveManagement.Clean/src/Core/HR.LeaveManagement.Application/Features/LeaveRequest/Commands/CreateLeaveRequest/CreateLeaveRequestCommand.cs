@@ -1,10 +1,11 @@
-﻿using HR.LeaveManagement.Application.Features.LeaveRequest.Shared;
+﻿using HR.LeaveManagement.Application.DTOs.LeaveRequest;
+using HR.LeaveManagement.Application.Features.LeaveType.Queries.GetAllLeaveTypes;
 using MediatR;
 
-namespace HR.LeaveManagement.Application.Features.LeaveRequest.Commands.CreateLeaveRequest;
-
-public class CreateLeaveRequestCommand : BaseLeaveRequest, IRequest<Unit>
+namespace HR.LeaveManagement.Application.Features.LeaveRequests.Requests.Commands
 {
-    public string RequestComments { get; set; } = string.Empty;
+    public class CreateLeaveRequestCommand : BaseLeaveRequest, IRequest<Unit>
+    {
+        public string RequestComments { get; set; } = string.Empty;
+    }
 }
-

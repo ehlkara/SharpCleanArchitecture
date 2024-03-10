@@ -1,7 +1,14 @@
-﻿namespace HR.LeaveManagement.Application.Contracts.Logging;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-public interface IAppLogger<T>
+namespace HR.LeaveManagement.Application.Contracts.Logging
 {
-    void LogInformation(string message, params object[] args);
-    void LogWarning(string message, params object[] args);
+    public interface IAppLogger<T>
+    {
+        void LogInformation(string message, params object[] args);
+        void LogWarning(string message, params object[] args);
+    }
 }

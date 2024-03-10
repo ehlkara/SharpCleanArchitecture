@@ -17,7 +17,7 @@ namespace HR.LeaveManagement.Persistence.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.1")
+                .HasAnnotation("ProductVersion", "7.0.1")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -132,9 +132,9 @@ namespace HR.LeaveManagement.Persistence.Migrations
                         new
                         {
                             Id = 1,
-                            DateCreated = new DateTime(2024, 2, 6, 12, 56, 38, 143, DateTimeKind.Local).AddTicks(5788),
-                            DateModified = new DateTime(2024, 2, 6, 12, 56, 38, 143, DateTimeKind.Local).AddTicks(5798),
-                            DefaultDays = 7,
+                            DateCreated = new DateTime(2023, 1, 9, 8, 43, 48, 939, DateTimeKind.Local).AddTicks(3849),
+                            DateModified = new DateTime(2023, 1, 9, 8, 43, 48, 939, DateTimeKind.Local).AddTicks(3862),
+                            DefaultDays = 10,
                             Name = "Vacation"
                         });
                 });

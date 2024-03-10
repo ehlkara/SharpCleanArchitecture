@@ -10,11 +10,10 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("HR.LeaveManagement.Identity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0606ffeed0a8c950d607cc816b6206da58127055")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71cb7678e0b32c142547014cd06652c0efeb23ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("HR.LeaveManagement.Identity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HR.LeaveManagement.Identity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

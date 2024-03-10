@@ -1,7 +1,8 @@
-﻿namespace HR.LeaveManagement.Application.Models.Identity;
-
-public class AuthRequest
+﻿namespace HR.LeaveManagement.Application.Models.Identity
 {
-    public string Email { get; set; }
-    public string Password { get; set; }
+    public class AuthRequest
+    {
+        public string Email { get; set; }
+        public string Password { get; set; }
+    }
 }

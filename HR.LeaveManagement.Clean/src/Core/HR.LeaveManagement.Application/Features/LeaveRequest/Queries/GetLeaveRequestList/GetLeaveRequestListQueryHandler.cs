@@ -1,35 +1,37 @@
 ﻿using AutoMapper;
 using HR.LeaveManagement.Application.Contracts.Persistence;
+using HR.LeaveManagement.Application.DTOs.LeaveRequest;
+using HR.LeaveManagement.Application.Features.LeaveRequest.Queries.GetLeaveRequestList;
 using MediatR;
 
-namespace HR.LeaveManagement.Application.Features.LeaveRequest.Queries.GetLeaveRequestList;
-
-public class GetLeaveRequestListQueryHandler : IRequestHandler<GetLeaveRequestListQuery, List<LeaveRequestListDto>>
+namespace HR.LeaveManagement.Application.Features.LeaveRequests.Handlers.Queries
 {
-    private readonly ILeaveRequestRepository _leaveRequestRepository;
-    private readonly IMapper _mapper;
-
-    public GetLeaveRequestListQueryHandler(ILeaveRequestRepository leaveRequestRepository,
-        IMapper mapper)
+    public class GetLeaveRequestListQueryHandler : IRequestHandler<GetLeaveRequestListQuery, List<LeaveRequestListDto>>
     {
-        _leaveRequestRepository = leaveRequestRepository;
-        _mapper = mapper;
-    }
+        private readonly ILeaveRequestRepository _leaveRequestRepository;
+        private readonly IMapper _mapper;
 
-    public async Task<List<LeaveRequestListDto>> Handle(GetLeaveRequestListQuery request, CancellationToken cancellationToken)
-    {
+        public GetLeaveRequestListQueryHandler(ILeaveRequestRepository leaveRequestRepository,
+            IMapper mapper)
+        {
+            _leaveRequestRepository = leaveRequestRepository;
+            _mapper = mapper;
+        }
 
-        // Check if it is logged in employee
+        public async Task<List<LeaveRequestListDto>> Handle(GetLeaveRequestListQuery request, CancellationToken cancellationToken)
+        {
 
-        var leaveRequests = await _leaveRequestRepository.GetLeaveRequestsWithDetails();
-        var requests = _mapper.Map<List<LeaveRequestListDto>>(leaveRequests);
+            // Check if it is logged in employee
+
+            var leaveRequests = await _leaveRequestRepository.GetLeaveRequestsWithDetails();
+            var requests = _mapper.Map<List<LeaveRequestListDto>>(leaveRequests);
+            
+
+            // Fill requests with employee information
+
+            return requests;
 
 
-        // Fill requests with employee information
-
-        return requests;
-
-
+        }
     }
 }
-

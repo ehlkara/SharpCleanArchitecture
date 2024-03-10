@@ -16,4 +16,3 @@ public class BadRequestException : Exception
 
     public IDictionary<string, string[]> ValidationErrors { get; set; }
 }
-

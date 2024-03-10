@@ -1,12 +1,17 @@
+﻿using HR.LeaveManagement.Application.DTOs.LeaveRequest;
 using HR.LeaveManagement.Application.Features.LeaveRequest.Commands.CancelLeaveRequest;
-using HR.LeaveManagement.Application.Features.LeaveRequest.Commands.ChangeLeaveRequest;
-using HR.LeaveManagement.Application.Features.LeaveRequest.Commands.CreateLeaveRequest;
+using HR.LeaveManagement.Application.Features.LeaveRequest.Commands.ChangeLeaveRequestApproval;
 using HR.LeaveManagement.Application.Features.LeaveRequest.Commands.DeleteLeaveRequest;
 using HR.LeaveManagement.Application.Features.LeaveRequest.Commands.UpdateLeaveRequest;
 using HR.LeaveManagement.Application.Features.LeaveRequest.Queries.GetLeaveRequestDetail;
 using HR.LeaveManagement.Application.Features.LeaveRequest.Queries.GetLeaveRequestList;
+using HR.LeaveManagement.Application.Features.LeaveRequests.Requests.Commands;
+using HR.LeaveManagement.Application.Features.LeaveRequests.Requests.Queries;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+
+// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace HR.LeaveManagement.Api.Controllers;
 
@@ -36,7 +41,6 @@ public class LeaveRequestsController : ControllerBase
         var leaveRequest = await _mediator.Send(new GetLeaveRequestDetailQuery { Id = id });
         return Ok(leaveRequest);
     }
-
 
     // POST api/<LeaveRequestsController>
     [HttpPost]

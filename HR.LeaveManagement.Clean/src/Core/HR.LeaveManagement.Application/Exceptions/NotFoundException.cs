@@ -1,11 +1,16 @@
 ﻿using System;
-namespace HR.LeaveManagement.Application.Exceptions;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-public class NotFoundException : Exception
+namespace HR.LeaveManagement.Application.Exceptions
 {
-	public NotFoundException(string name, object key) : base($"{name} ({key}) was not found")
-	{
-
-	}
+    public class NotFoundException : Exception
+    {
+        public NotFoundException(string name, object key) : base($"{name} ({key}) was not found")
+        {
+            
+        }
+    }
 }
-

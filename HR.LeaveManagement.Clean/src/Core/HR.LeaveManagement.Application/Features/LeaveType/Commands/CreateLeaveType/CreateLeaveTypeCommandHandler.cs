@@ -1,38 +1,39 @@
 ﻿using AutoMapper;
 using HR.LeaveManagement.Application.Contracts.Persistence;
 using HR.LeaveManagement.Application.Exceptions;
+using HR.LeaveManagement.Domain;
 using MediatR;
 
-namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.CreateLeaveType;
-
-public class CreateLeaveTypeCommandHandler : IRequestHandler<CreateLeaveTypeCommand, int>
+namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.CreateLeaveType
 {
-    private readonly IMapper _mapper;
-    private readonly ILeaveTypeRepository _leaveTypeRepository;
-
-    public CreateLeaveTypeCommandHandler(ILeaveTypeRepository leaveTypeRepository, IMapper mapper)
+    public class CreateLeaveTypeCommandHandler : IRequestHandler<CreateLeaveTypeCommand, int>
     {
-        _leaveTypeRepository = leaveTypeRepository;
-        _mapper = mapper;
-    }
+        private readonly IMapper _mapper;
+        private readonly ILeaveTypeRepository _leaveTypeRepository;
 
-    public async Task<int> Handle(CreateLeaveTypeCommand request, CancellationToken cancellationToken)
-    {
-        // Validate incoming data
-        var validator = new CreateLeaveTypeCommandValidator(_leaveTypeRepository);
-        var validationResult = await validator.ValidateAsync(request);
+        public CreateLeaveTypeCommandHandler(IMapper mapper, ILeaveTypeRepository leaveTypeRepository)
+        {
+            _mapper = mapper;
+            _leaveTypeRepository = leaveTypeRepository;
+        }
 
-        if (validationResult.Errors.Any())
-            throw new BadRequestException("Invalid Leavetype", validationResult);
+        public async Task<int> Handle(CreateLeaveTypeCommand request, CancellationToken cancellationToken)
+        {
+            // Validate incoming data
+            var validator = new CreateLeaveTypeCommandValidator(_leaveTypeRepository);
+            var validationResult = await validator.ValidateAsync(request);
 
-        // convert to domain entity object
-        var leaveTypeToCreate = _mapper.Map<Domain.LeaveType>(request);
+            if (validationResult.Errors.Any())
+                throw new BadRequestException("Invalid Leave type", validationResult);
 
-        // add to database
-        await _leaveTypeRepository.CreateAsync(leaveTypeToCreate);
+            // convert to domain entity object
+            var leaveTypeToCreate = _mapper.Map<Domain.LeaveType>(request);
 
-        // return record id
-        return leaveTypeToCreate.Id;
+            // add to database
+            await _leaveTypeRepository.CreateAsync(leaveTypeToCreate);
+
+            // retun record id
+            return leaveTypeToCreate.Id;
+        }
     }
 }
-

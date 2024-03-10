@@ -1,10 +1,13 @@
 ﻿using System;
-namespace HR.LeaveManagement.Application.Features.LeaveRequest.Shared;
+using System.Collections.Generic;
+using System.Text;
 
-public abstract class BaseLeaveRequest
+namespace HR.LeaveManagement.Application.DTOs.LeaveRequest
 {
-    public DateTime StartDate { get; set; }
-    public DateTime EndDate { get; set; }
-    public int LeaveTypeId { get; set; }
+    public abstract class BaseLeaveRequest
+    {
+        public DateTime StartDate { get; set; }
+        public DateTime EndDate { get; set; }
+        public int LeaveTypeId { get; set; }
+    }
 }
-

@@ -1,15 +1,21 @@
 ﻿using HR.LeaveManagement.Application.Contracts.Email;
 using HR.LeaveManagement.Application.Models.Email;
 using Microsoft.Extensions.Options;
-using SendGrid;
 using SendGrid.Helpers.Mail;
+using SendGrid;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net.Mail;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace HR.LeaveManagement.Infrastructure.EmailService
 {
     public class EmailSender : IEmailSender
     {
         public EmailSettings _emailSettings { get; }
-        public EmailSender(IOptions<EmailSettings> emailSettings) 
+        public EmailSender(IOptions<EmailSettings> emailSettings)
         {
             _emailSettings = emailSettings.Value;
         }
